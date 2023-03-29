@@ -1,0 +1,17 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title> <%= @item[:title] %></title>
+    
+    <link rel="stylesheet" href="/stylesheet.css">
+  </head>
+  <body>
+    <div id="main">
+        <p>This article is in the <%= @item[:section] %> section.</p>
+        <p> Date: <%= @item[:year]%> </p>
+        <%= yield %>
+        <p>Tags: <%= tags_for(@item) %></p>
+    </div>
+  </body>
+</html>
+
