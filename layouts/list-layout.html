@@ -1,25 +1,15 @@
 <html lang="en">
   <head>
-    <title> A test layout page - <%= @item[:title] %></title>
+    <title> A test list layout- <%= @item[:title] %></title>
   </head>
   <body>
     <div>
       <%= yield %>
-      <% if @item[:author] %>
-        <p>This page was written by <%= @item[:author] %>.</p>
-      <% end %> 
-      <p>Tags: <%= tags_for(@item) %></p>
     </div>
-    
-    <div >
-     <p> Here is some writing in my test layout page: insert content after this?</p>
-    </div>
-    <% sorted_articles.each do |post| %>
-        <div>
-            <h1><%= link_to post[:title], post.path %></h1>
-            <p>Year: <%= post[:year] %> </p>
-            <p> <%= post.compiled_content %> </p>
-        </div>
-    <% end %>
+    <ul>
+      <% student_housing.each do |student_housing_article| %> 
+        <li><%= student_housing_article[:title] %></li>
+      <% end %>
+    </ul>
   </body>
 </html>
