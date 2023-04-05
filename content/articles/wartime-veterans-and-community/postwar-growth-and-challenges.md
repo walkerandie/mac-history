@@ -1,10 +1,8 @@
 ---
 title: "Postwar Growth and Challenges"
-section: "Wartime, Veterans and Community"
+section: "Wartime, Veterans, and Community"
 order: 6
 year: 1946
-created_at: 2023-01-01 09:00:00 +0000
-kind: article
 ---
 ## Postwar Growth and Challenges
 

@@ -3,8 +3,6 @@ title: "Admitting female students & Neill controversy"
 section: "Student Housing"
 order: 2
 year: 1893
-created_at: 2023-01-01 09:00:00 +0000
-kind: article
 ---
 ## Admitting female students & Neill controversy
 

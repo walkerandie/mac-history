@@ -1,15 +1,26 @@
 #!/usr/bin/env ruby
 
-compile '/**/*.html' do
-  layout '/default.*'
-
-  write item.identifier + "awesomepants"
+compile '/**/index.html' do
+  filter :erb
+  layout '/home.*'
+  
   if item.identifier =~ '**/index.*'
     write item.identifier.to_s
   else
     write item.identifier.without_ext + '/index.html'
   end
 end
+
+# compile '/**/*.html' do
+#   filter :erb
+#   layout '/default.*'
+
+#   if item.identifier =~ '**/index.*'
+#     write item.identifier.to_s
+#   else
+#     write item.identifier.without_ext + '/index.html'
+#   end
+# end
 
 # This is an example rule that matches Markdown (.md) files, and filters them
 # using the :kramdown filter. It is commented out by default, because kramdown
@@ -32,13 +43,25 @@ end
 
 #takes care of all markdown pages
 
-compile '/articles/**/*.md' do
+# compile '/articles/**/**.md' do
+#   filter :kramdown
+#   layout '/article.*'
+#   # write "/" + 
+#   #   item[:section].downcase.gsub(/\s+/, "-") +
+#   #   "/" +
+#     item.identifier.without_ext.to_s + "/index.html"
+# end
+
+
+compile '/**/*.md' do
   filter :kramdown
   layout '/article.*'
-  write "/" + 
-    item[:section].downcase.gsub(/\s+/, "-") +
-    "/" +
-    item.identifier.without_ext.to_s + "/index.html"
+
+  if item.identifier =~ '**/index.*'
+    write item.identifier.to_s
+  else
+    write item.identifier.without_ext + '/index.html'
+  end
 end
 
 compile '/**/*' do

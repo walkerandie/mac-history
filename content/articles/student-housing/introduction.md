@@ -3,8 +3,6 @@ title: "Introduction"
 section: "Student Housing"
 order: 1
 year: 1883
-created_at: 2023-01-01 09:00:00 +0000
-kind: article
 ---
 ## Introduction
 

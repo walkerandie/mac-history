@@ -3,8 +3,6 @@ title: "Rules and Breaking Them"
 section: "Old Main"
 order: 3
 year: 1893
-created_at: 2023-01-01 09:00:00 +0000
-kind: article
 ---
 ## Rules & Breaking Them  
 

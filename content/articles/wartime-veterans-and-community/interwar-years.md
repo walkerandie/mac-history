@@ -1,10 +1,8 @@
 ---
 title: "Planning Ahead: The Interwar Years"
-section: "Wartime, Veterans and Community"
+section: "Wartime, Veterans, and Community"
 order: 3
 year: 1920
-created_at: 2023-01-01 09:00:00 +0000
-kind: article
 ---
 ## Planning Ahead: The Interwar Years
 

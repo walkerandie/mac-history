@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New Nanoc Site - <%= @item[:title] %></title>
+    
+    <link rel="stylesheet" href="/stylesheet.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="Nanoc <%= Nanoc::VERSION %>">
+  </head>
+  <body>
+    <div id="main">
+      <%= yield %>
+      <h2>Explore by theme:</h2>
+      <ul>
+        <!-- links to section list pages -->
+        <% section_names.each do |section_name| %>
+          <li><p> <%= section_name %></p></li>
+        <% end %>
+      </ul>
+      <!-- Timeline is just list of links to every single article & associated year-->
+      <h2>Timeline</h2>
+      <ul>
+        <% timeline.each do |timeline_article| %> 
+          <li><p> <%= timeline_article[:year]%>: <%= link_to timeline_article[:title], timeline_article.path%> </p></li>
+        <% end %>
+      </ul>
+
+      <!-- trying to display photos from images folder -->
+      <ul>
+      <% @items.find_all('/**/images/**').each do |img| %>
+        <li> <img src= "<%= img.path %>"> </li>
+      <% end %>
+      </ul>
+    </div>
+  </body>
+</html>

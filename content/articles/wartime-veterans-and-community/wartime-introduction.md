@@ -1,10 +1,8 @@
 ---
 title: "Introduction"
-section: "Wartime, Veterans and Community"
+section: "Wartime, Veterans, and Community"
 order: 1
 year: 1914
-created_at: 2023-01-01 09:00:00 +0000
-kind: article
 ---
 ## Introduction
 

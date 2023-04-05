@@ -1,10 +1,8 @@
 ---
 title: "War Brings Change"
-section: "Wartime, Veterans and Community"
+section: "Wartime, Veterans, and Community"
 order: 2
 year: 1917
-created_at: 2023-01-01 09:00:00 +0000
-kind: article
 ---
 ## Resisting War/War Brings a Change in Tone
 

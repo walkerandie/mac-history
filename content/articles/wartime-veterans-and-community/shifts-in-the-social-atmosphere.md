@@ -1,10 +1,8 @@
 ---
 title: "Shifts in the Social Atmosphere"
-section: "Wartime, Veterans and Community"
+section: "Wartime, Veterans, and Community"
 order: 5
 year: 1941
-created_at: 2023-01-01 09:00:00 +0000
-kind: article
 ---
 ## Shifts in the Social Atmosphere
 
