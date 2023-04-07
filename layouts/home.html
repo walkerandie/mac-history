@@ -23,7 +23,7 @@
       <h2>Timeline</h2>
       <ul>
         <% timeline.each do |timeline_article| %> 
-          <li><p> <%= timeline_article[:year]%>: <%= link_to timeline_article[:title], timeline_article.path%> </p></li>
+          <li><p> <%= timeline_article[:section]%>, <%=timeline_article[:year]%>: <%= link_to timeline_article[:title], timeline_article.path%> </p></li>
         <% end %>
       </ul>
 
