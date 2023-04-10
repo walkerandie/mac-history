@@ -7,7 +7,7 @@
   </head>
   <body>
     <div id="main">
-        <h5> <%= @item[:section]%></h5>
+        <h5> <%= link_to @item[:section], get_section_list(@item[:section]).first%></h5>
         <h3> <%= @item[:year]%> </h3>
         <h2> <%= @item[:title]%> </h2>
         <img src = "/images/<%= @item[:image_path] %>">
