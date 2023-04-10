@@ -6,18 +6,14 @@
     <link rel="stylesheet" href="/stylesheet.css">
   </head>
   <body>
-    <!-- Below: lists timeline of years for each article with a year (test)-->
-    <!-- <ul>
-      <% timeline.each do |timeline_item| %> 
-        <li><%= timeline_item[:year] %></li>
-      <% end %>
-    </ul> -->
     <div id="main">
-        <p>This article is in the <%= @item[:section] %> section.</p>
-        <p> Date: <%= @item[:year]%> </p>
+        <h5> <%= @item[:section]%></h5>
+        <h3> <%= @item[:year]%> </h3>
+        <h2> <%= @item[:title]%> </h2>
+        <img src = "/images/<%= @item[:image_path] %>">
         <%= yield %>
+        <p> <- Previous in section           Next in section -> </p>
     </div>
-
   </body>
 </html>
 

@@ -1,10 +1,11 @@
 ---
 title: "Evolving Philosophies of Gender"
 section: "Student Housing"
+image_path: "housing-proposal-media-attention.png"
 order: 11
 year: 2008
 ---
-## Evolving Philosophies of Gender
+
 
 More recently, gendered divisions in student housing have continued to evolve. In 2008, the college designated a section of Kirk Hall as an all-gender community, after the proposal initially made national headlines.
 

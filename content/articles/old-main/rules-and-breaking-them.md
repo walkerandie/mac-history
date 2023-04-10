@@ -1,10 +1,11 @@
 ---
 title: "Rules and Breaking Them"
 section: "Old Main"
+image_path: "female-students-dorm-1910.jpg"
 order: 3
 year: 1893
 ---
-## Rules & Breaking Them  
+
 
 What was Old Main like in the early years of Macalester? The rules were pretty strict. Drinking was banned, and smoking was only allowed in particular areas. After the admission of women in 1893, there were also many rules based on gender. Women weren’t allowed to step foot in the East Old Main dormitory, and dancing between men and women was strictly prohibited, since college president James Wallace believed that dancing led to “spoonery,” whatever that meant. The small indiscretions of students could easily be blown out of proportion. Faculty often dined with students and also lived nearby, meaning that figures of authority were never too far away. One incident where a female student was spotted exiting the men’s dormitory caused an outcry among administrators until their investigations revealed she had merely been dropping off a book for a classmate. 
 

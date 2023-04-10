@@ -1,11 +1,11 @@
 ---
 title: "Creating a Place for Community"
 section: "Student Unity"
+image_path: "student-union_002.jpg"
 order: 2
 year: 1949
 ---
 
-## Creating a Place for Community
 
 Plans for a new Student Union building began to crystallize at the end of the 1940s and
 into 1950. In 1949, a committee of faculty, students, and trustees, headed by college president

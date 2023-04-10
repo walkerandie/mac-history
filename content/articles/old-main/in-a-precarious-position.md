@@ -4,7 +4,6 @@ section: "Old Main"
 order: 6
 year: 1985
 ---
-## Old Main in a Precarious Position  
 
 In 1985, the president of Macalester College received a letter from engineer Elmer J. Kopp summarizing his evaluation of the East Wing of Old Main. College leaders had originally hoped that they could preserve the structure of East Old Main by using it as the basis for the new library. However, Kopp concluded in his report that it would be “extremely difficult, if not impossible, to save” the East Wing of Old Main. Renovating the building would mean gutting it— the interior walls, floors, and roof system would have to be replaced, leaving only the weakened exterior walls intact. Additionally, the vibrations from construction would further damage East Old Main’s exterior walls, while also posing a danger to West Old Main by potentially dislodging the mortar in the stone foundation. A month later, another report to the library architects from a separate engineering firm confirmed that diagnosis. The building would have to be demolished. 
 

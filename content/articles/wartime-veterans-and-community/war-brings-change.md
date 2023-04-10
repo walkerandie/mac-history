@@ -1,10 +1,11 @@
 ---
 title: "War Brings Change"
 section: "Wartime, Veterans, and Community"
+image_path: "world-war-i-headline.png"
 order: 2
 year: 1917
 ---
-## Resisting War/War Brings a Change in Tone
+
 
 Macalester’s first brush with war came in 1917, when the United States officially entered World War I. US entrance into the war inflamed controversy on campus when eighty-seven students distributed a letter to local news groups and Minnesota lawmakers in February 1917, before the US declared war, advocating for American neutrality and arguing that entrance into the war “would only result in a prolongation of the conflict and an extension of its horrors into America.”
 

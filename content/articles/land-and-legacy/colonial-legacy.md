@@ -1,7 +1,9 @@
 ---
 title: "Colonial Legacy"
 section: "Land and Legacy"
-order: 3
-year: 2000
+image_path: "macalester-site-map-TEMP.jpg"
+order: 5
+year: 2019
 ---
-## Colonial Legacy
+
+Today, the founding days of Macalester and the decisions made about its location have taken on greater significance as the nation and the college begin to reckon with their colonial histories. 

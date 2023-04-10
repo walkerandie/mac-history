@@ -1,7 +1,8 @@
 ---
 title: "Introduction"
 section: "Land and Legacy"
+image_path: "view-of-campus.jpg"
 order: 1
 year: 1823
 ---
-## Introduction
+Institutions of higher education have long histories of contributing to settler colonialism in the United States, and Macalester is no exception. Understanding the land that Macalester occupies and to what extent colonial power has shaped Macalester can help us begin to address the harmful power dynamics resulting from colonialism to this day. Macalester College was initially the endeavor of only one man: Edward Duffield Neill. In the past, history has often relied on a narrative that highlights so-called ‘great men,’ lifting them up as heroes, founding fathers, and role models for the future. However, Neill’s role in the history of Macalester College is far from heroic. It is true that without his initiative, there would be no Macalester College. And yet, his approach to education and politics is now fully at odds with what the Macalester community has become. In 2019 student journalists for the Mac Weekly published a special edition of the college newspaper, Colonial Macalester, reporting on Neill’s hearty endorsement of white supremacism, his involvement in enforcing settler colonialism in Minnesota, and his rejection of co-education. Their reporting led many Macalester community members to reconsider the history of the institution of Macalester and its founder. Neill’s life shows us the danger of history that highlights great men, and reveals how institutions of higher education are often closely intertwined with settler colonialism. While the story of Macalester may begin with Neill, it does not end with him.

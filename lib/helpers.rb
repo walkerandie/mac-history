@@ -25,6 +25,6 @@ end
 
 def get_section_list(section_name)
   @items
-    .select { |item| item[:list] == true}
     .select { |item| item[:section] == section_name}
+    .select { |item| item[:list] == true}
 end

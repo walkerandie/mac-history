@@ -1,0 +1,11 @@
+---
+title: "Neill and the Precursors to Macalester"
+section: "Land and Legacy"
+image_path: "winslow-house.jpeg"
+order: 3
+year: 1850
+---
+
+Neill’s first endeavor in education was the establishment of the Baldwin School in 1853, a preparatory academy financed by Matthias W. Baldwin of Philadelphia. The Baldwin School was built upon a philosophy of gender-segregated secondary education, although in practice, limited financial resources meant that male and female students often learned side-by-side in the same classes. These limited resources, combined with the turbulent times in Minnesota during the lead-up to the Civil War culminated in the closure of the first iteration of the Baldwin School by 1861. Neill had also worked on early efforts to establish the University of Minnesota, becoming its first chancellor in 1858, but continuing financial issues led him to resign in 1861. The university would not open again until 1867. 
+
+The emergence of the Civil War further derailed Neill’s plans for establishing an educational institution. Neill worked as a chaplain in the Union Army, then as a secretary for Abraham Lincoln before spending time abroad, but by 1871, Neill was back in Minnesota and back at work. He reopened the Baldwin School in 1873, in a former hotel called the Winslow House. The Baldwin School rented Winslow House from Charles Macalester, a Philadelphia businessman. The building had previously served as a summer destination for wealthy Southern planters (and likely slave owners), but with the outbreak of Civil War, its clientele could no longer take carefree vacations up north. After the war, the building was simply not ideal to house a school, with too many rooms that were difficult to keep warm, and dangerous structural problems. However, it was still worth something, and in 1873, Neill was able to convince a reluctant Macalester to set aside Winslow House in his will in order to found a college in his name. In a stroke of luck, Macalester died only a couple of months later, and all of a sudden, Neill’s dream of a college finally seemed within reach.

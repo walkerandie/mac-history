@@ -1,10 +1,11 @@
 ---
 title: "Deans of Women and Dorm Architecture"
 section: "Student Housing"
+image_path: "students-elms-porch.jpg"
 order: 3
 year: 1897
 ---
-## Deans of Women and Dorm Architecture
+
 
 In the early 1900s, women were seen as having different needs from men when it came to education and student housing.  Female students at colleges and universities in the United States, including Macalester, were often overseen by deans of women, who were responsible for “their charges’ involvement with cars, mixed-gender houses, food, and sex,” as described by Yanni. Architecture was one way that college administrators could oversee their students and ensure their safety and morality.
 

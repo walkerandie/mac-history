@@ -16,8 +16,12 @@
       <ul>
         <!-- links to section list pages -->
         <% section_names.each do |section_name| %>
-          <li><p> <%= section_name %></p></li>
+          <li><p> <%= link_to section_name, get_section_list(section_name).first.path %></p></li>
         <% end %>
+
+        
+
+
       </ul>
       <!-- Timeline is just list of links to every single article & associated year-->
       <h2>Timeline</h2>

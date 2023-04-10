@@ -1,10 +1,11 @@
 ---
 title: "Planning Ahead: The Interwar Years"
 section: "Wartime, Veterans, and Community"
+image_path: "kirk-hall-sketch.jpg"
 order: 3
 year: 1920
 ---
-## Planning Ahead: The Interwar Years
+
 
 During the interwar period, Macalester continued to grow and made lofty plans for the future. [Context about President Acheson]
 
