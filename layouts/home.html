@@ -19,9 +19,6 @@
           <li><p> <%= link_to section_name, get_section_list(section_name).first.path %></p></li>
         <% end %>
 
-        
-
-
       </ul>
       <!-- Timeline is just list of links to every single article & associated year-->
       <h2>Timeline</h2>
@@ -29,13 +26,6 @@
         <% timeline.each do |timeline_article| %> 
           <li><p> <%= timeline_article[:section]%>, <%=timeline_article[:year]%>: <%= link_to timeline_article[:title], timeline_article.path%> </p></li>
         <% end %>
-      </ul>
-
-      <!-- trying to display photos from images folder -->
-      <ul>
-      <% @items.find_all('/**/images/**').each do |img| %>
-        <li> <img src= "<%= img.path %>"> </li>
-      <% end %>
       </ul>
     </div>
   </body>
