@@ -1,7 +1,7 @@
 ---
 title: "A Century's Worth of Change"
 section: "Old Main"
-order: 5
+order: 4
 year: 1984
 ---
 

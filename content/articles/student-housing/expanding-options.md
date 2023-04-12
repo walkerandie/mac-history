@@ -1,5 +1,5 @@
 ---
-title: "Evolving Philosophies of Gender"
+title: "Expanding housing options"
 section: "Student Housing"
 image_path: "housing-proposal-media-attention.png"
 order: 11

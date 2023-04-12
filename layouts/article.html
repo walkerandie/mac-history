@@ -3,17 +3,23 @@
     <meta charset="utf-8">
     <title> <%= @item[:title] %></title>
     
-    <link rel="stylesheet" href="/stylesheet.css">
+    <link href="/output.css" rel="stylesheet">
   </head>
   <body>
-    <div id="main">
+    <div>
+      <div class = "">
         <h5> <%= link_to @item[:section], get_section_list(@item[:section]).first%></h5>
-        <h3> <%= @item[:year]%> </h3>
-        <h2> <%= @item[:title]%> </h2>
-        <img src = "/images/<%= @item[:image_path] %>">
-        <%= yield %>
-        <p> <- Previous in section           Next in section -> </p>
-    </div>
+        <h3 class = "text-2xl font-bold"> <%= @item[:year]%> </h3>
+        <h2 class = "text-xl font-medium"> <%= @item[:title]%> </h2>
+      </div>
+        <img class = "max-w-lg mx-auto" src = "/images/<%= @item[:image_path] %>">
+        <div class = "max-w-xl text-left mx-auto indent-10">
+          <%= yield %>
+        </div>
+        
+        <!-- code adapted from https://stackoverflow.com/questions/40929461/next-and-prev-buttons-for-pages-in-the-same-folder-in-nanoc -->
+        
+      </div>
   </body>
 </html>
 

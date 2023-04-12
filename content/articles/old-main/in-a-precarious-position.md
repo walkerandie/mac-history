@@ -1,7 +1,7 @@
 ---
 title: "Old Main in a Precarious Position"
 section: "Old Main"
-order: 6
+order: 5
 year: 1985
 ---
 

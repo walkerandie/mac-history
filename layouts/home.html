@@ -4,29 +4,34 @@
     <meta charset="utf-8">
     <title>A Brand New Nanoc Site - <%= @item[:title] %></title>
     
-    <link rel="stylesheet" href="/stylesheet.css">
+    <link href="/output.css" rel="stylesheet">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="Nanoc <%= Nanoc::VERSION %>">
   </head>
   <body>
-    <div id="main">
+    <div>
       <%= yield %>
-      <h2>Explore by theme:</h2>
-      <ul>
+      <h2 class= "text-xl text-center font-bold p-6" >Explore by theme:</h2>
+      <div class = "flex items-center space-x-6">
         <!-- links to section list pages -->
         <% section_names.each do |section_name| %>
-          <li><p> <%= link_to section_name, get_section_list(section_name).first.path %></p></li>
+          <div class = "p-3 bg-blue-50 max-w-sm rounded-xl shadow-lg items-center">
+            <%= link_to section_name, get_section_list(section_name).first.path %>
+          </div>
         <% end %>
-
-      </ul>
+      </div>
       <!-- Timeline is just list of links to every single article & associated year-->
-      <h2>Timeline</h2>
-      <ul>
+      <h2 class = "text-xl text-center font-bold p-6">Timeline</h2>
+      <di class = "flex flex-col space-y-6">
         <% timeline.each do |timeline_article| %> 
-          <li><p> <%= timeline_article[:section]%>, <%=timeline_article[:year]%>: <%= link_to timeline_article[:title], timeline_article.path%> </p></li>
+          <div class="p-6 bg-blue-50 max-w-sm mx-auto rounded-xl shadow-lg items-center">
+            <h3 class = "font-bold"> <%=timeline_article[:year]%></h3>
+            <p><%= link_to timeline_article[:title], timeline_article.path%></p>
+            <p class = "text-sm text-slate-500"><%= timeline_article[:section]%></p>
+          </div>
         <% end %>
-      </ul>
+      </div>
     </div>
   </body>
 </html>

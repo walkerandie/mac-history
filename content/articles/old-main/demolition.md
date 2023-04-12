@@ -2,7 +2,7 @@
 title: "Demolition!"
 section: "Old Main"
 image_path: "old-main_028.jpg"
-order: 7
+order: 6
 year: 1986
 ---
 

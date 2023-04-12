@@ -1,7 +1,7 @@
 ---
 title: "Old Main's Legacy"
 section: "Old Main"
-order: 8
+order: 7
 year: 1988
 ---
 
