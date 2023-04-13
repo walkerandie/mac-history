@@ -1,0 +1,24 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link href="/output.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class = "p-8 bg-blue-50 mt-10">
+        <div class = "flex space-x-6 items-center justify-center">
+            <!-- links to section list pages -->
+            <div class = "p-3">
+                <a href = "home.html"> Home </a>
+            </div>
+            <div class = "p-3">
+                <a href = "home.html"> About </a>
+            </div>
+            <% section_names.each do |section_name| %>
+              <div class = "p-3">
+                <%= link_to section_name, get_section_list(section_name).first.path %>
+              </div>
+            <% end %>
+        </div>
+    </div>
+  </body>
+</html>
