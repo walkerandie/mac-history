@@ -12,19 +12,26 @@
   <body>
     <%= render '/header.*' %>
     <div>
-      <!-- Timeline is just list of links to every single article & associated year-->
-      <h2 class = "text-xl text-center font-bold p-6">Timeline</h2>
-      <di class = "flex flex-col space-y-6 items-left">
+      <div>
         <% timeline_scale = 0.4  # em per year %>
         <% min_timeline_spacing = 0  # em (-1.5 = items at same time overlap completely) %>
         <% prev_year = nil %>
         <% timeline.each do |timeline_article| %>
-          <div class = "p-6 bg-blue-50 max-w-sm rounded-xl shadow-lg" style="margin-top: <%= [(timeline_article[:year] - prev_year) * timeline_scale - 1.5, min_timeline_spacing].max if prev_year %>em">
-            <h3 class="inline font-bold"> <%=timeline_article[:year]%></h3>
-            <span><%= link_to timeline_article[:title], timeline_article.path%></span>
-          </div>
-          <% prev_year = timeline_article[:year] %>
-        <% end %>
+            <% if timeline_article[:section] %>
+            <div class = "p-4 bg-blue-50 max-w-sm rounded-xl shadow-lg sm:ml-10 " style="margin-top: <%= [(timeline_article[:year] - prev_year) * timeline_scale - 1.5, min_timeline_spacing].max if prev_year %>em">
+              <h3 class="inline font-bold"> <%=timeline_article[:year]%></h3>
+              <p><%= link_to timeline_article[:title], timeline_article.path%></p>
+              <p class = "text-sm text-slate-500"><%= timeline_article[:section]%></p>
+              <% prev_year = timeline_article[:year] %>
+           </div>
+           <% else %>
+              <div class = "p-4 border-orange-500 border-2 max-w-sm rounded-xl shadow-lg sm:ml-10 float-right" style="margin-top: <%= [(timeline_article[:year] - prev_year) * timeline_scale - 1.5, min_timeline_spacing].max if prev_year %>em">
+               <h3 class="inline font-bold"> <%=timeline_article[:year]%></h3>
+                <p><%=timeline_article[:title]%></p>
+                <% prev_year = timeline_article[:year] %>
+              </div>
+            <% end %>
+      <% end %>
       </div>
     </div>
     <%= render '/footer.*' %>

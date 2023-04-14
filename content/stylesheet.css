@@ -11,6 +11,42 @@
   font-family: Georgia, Palatino, serif;
 }
 
+html, body {
+  font-size: 1.25rem;
+  margin: 0.4em;
+}
+
+figure {
+  margin: 1em;
+}
+
+figure img {
+  margin: 1em;
+}
+
+figure figcaption {
+  font-size: 80%;
+  color: #444;
+}
+
+.footnotes {
+  margin-top: 2em;
+  border-top: 0.5px solid #888;
+  padding-top: 0.5em;
+}
+
+.footnotes li {
+}
+
+.footnotes li p {
+  margin-left: 2em;
+  text-indent: -2em;
+}
+
+p:first-child {
+  text-indent: 0;
+}
+
 body {
   background: #fff;
 }
@@ -31,82 +67,4 @@ a:visited {
 
 a:hover {
   color: #f90;
-}
-
-#main {
-  position: absolute;
-
-  top: 40px;
-  left: 280px;
-
-  width: 500px;
-}
-
-#main h1 {
-  font-size: 40px;
-  font-weight: normal;
-
-  line-height: 40px;
-
-  letter-spacing: -1px;
-}
-
-#main p {
-  margin: 20px 0;
-
-  font-size: 15px;
-
-  line-height: 20px;
-}
-
-#main ul, #main ol {
-  margin: 20px;
-}
-
-#main li {
-  font-size: 15px;
-
-  line-height: 20px;
-}
-
-#main ul li {
-  list-style-type: square;
-}
-
-#sidebar {
-  position: absolute;
-
-  top: 40px;
-  left: 20px;
-  width: 200px;
-
-  padding: 20px 20px 0 0;
-
-  border-right: 1px solid #ccc;
-
-  text-align: right;
-}
-
-#sidebar h2 {
-  text-transform: uppercase;
-
-  font-size: 13px;
-
-  color: #333;
-
-  letter-spacing: 1px;
-
-  line-height: 20px;
-}
-
-#sidebar ul {
-  list-style-type: none;
-
-  margin: 20px 0;
-}
-
-#sidebar li {
-  font-size: 14px;
-
-  line-height: 20px;
 }
