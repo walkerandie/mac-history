@@ -6,7 +6,7 @@ year: 1926
 ---
 
  <figure>
-   <img src="/images/kirk-hall-sketch.jpg">
+   <img src="/mac-history/images/kirk-hall-sketch.jpg">
    <figcaption>
         Architect's sketch of Kirk Hall. Macalester College Archives
    </figcaption>

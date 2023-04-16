@@ -6,7 +6,7 @@ year: 1970
 ---
  
  <figure>
-   <img src="/images/black-house.png">
+   <img src="/mac-history/images/black-house.png">
    <figcaption>
           Headline and photograph from the May 1, 1970 edition of the <i>Mac Weekly<i>,showing Jim Bennett, then Black House director, in the house's living room. Macalester College Archives
    </figcaption>

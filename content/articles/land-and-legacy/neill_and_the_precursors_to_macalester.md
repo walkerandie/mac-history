@@ -10,7 +10,7 @@ year: 1853
 Neill’s first endeavor in education was the establishment of the Baldwin School in 1853, a preparatory academy financed by Matthias W. Baldwin of Philadelphia.[^1] The Baldwin School was built upon a philosophy of gender-segregated secondary education, although in practice, limited financial resources meant that male and female students often learned side-by-side in the same classes.[^2] These limited resources, combined with the turbulent times in Minnesota during the lead-up to the Civil War culminated in the closure of the first iteration of the Baldwin School by 1861.[^3] Neill had also worked on early efforts to establish the University of Minnesota, becoming its first chancellor in 1858, but continuing financial issues led him to resign in 1861.[^4] The university would not open again until 1867.[^5] 
 
 <figure>
-   <img src="/images/winslow-house.jpeg">
+   <img src="/mac-history/images/winslow-house.jpeg">
    <figcaption>
      Winslow House, the building that housed the Baldwin School. Macalester College Archives.
    </figcaption>

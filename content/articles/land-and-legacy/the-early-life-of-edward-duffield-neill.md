@@ -8,7 +8,7 @@ year: 1823
  Edward Duffield Neill was born in 1823, and had a privileged childhood in Philadelphia, eventually attending prep school for two years before enrolling at Amherst College when he was 16.[^1] Amherst College, founded in Massachusetts in 1821, would profoundly shape Neill’s worldview, and remained his central inspiration as he worked to establish Macalester later in life.[^2] Amherst emphasized a close relationship between students and faculty, hoping to instill students with critical thinking skills as well as a distinct devotion to God.[^3] Neill would later endeavor to bring this Amherst style of education westward. 
 
 <figure>
-   <img src="/images/edward-duffield-neill.jpg">
+   <img src="/mac-history/images/edward-duffield-neill.jpg">
    <figcaption>
      Edward Duffield Neill. Macalester College Archives
    </figcaption>

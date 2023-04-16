@@ -6,7 +6,7 @@ order:
 year: 1960
 ---
 <figure>
-   <img src="/images/macalester-women.png">
+   <img src="/mac-history/images/macalester-women.png">
    <figcaption>
           A headline from the February 25, 1966 edition of the <i>Mac Weekly</i>. Macalester College Archives
    </figcaption>

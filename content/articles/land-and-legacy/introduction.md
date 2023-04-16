@@ -7,7 +7,7 @@ year: 1822
 ---
 
 <figure>
-   <img src="/images/view-of-campus.jpg">
+   <img src="/mac-history/images/view-of-campus.jpg">
    <figcaption>
      A view of campus from the corner of Snelling and Summit, c. 1890. Macalester College Archives.
    </figcaption>

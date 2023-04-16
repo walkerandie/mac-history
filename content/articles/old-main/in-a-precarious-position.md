@@ -6,7 +6,7 @@ year: 1985
 ---
 
  <figure>
-   <img src="/images/old-main_011.jpeg">
+   <img src="/mac-history/images/old-main_011.jpeg">
    <figcaption>
         An excerpt from Elmer J. Kopp's letter detailing the structural condition of Old Main. Macalester College Archives
    </figcaption>

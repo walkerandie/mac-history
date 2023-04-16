@@ -9,7 +9,7 @@ year: 1883
 Macalester’s Old Main was built later than most, with the East Wing constructed first in 1883.[^1] A competition was held among architects for who would get to design the college’s first building. Multiple designs were considered, however it was the firm of Willcox and Smith who cinched the final deal.[^2] In the East Wing, the basement held the communal dining room, the first floor housed the chapel and several classrooms, and the second and third floors were devoted to housing for students.[^3] 
 
 <figure>
-   <img src="/images/old-main_008_cropped.jpeg">
+   <img src="/mac-history/images/old-main_008_cropped.jpeg">
    <figcaption>
         The East Wing and West Wing of Old Main in 1888, shortly after the construction of the West Wing. Macalester College Archives
    </figcaption>

@@ -28,7 +28,7 @@ Conversion notes:
 
 
 <figure>
-   <img src="/images/new-dorms-get-ok.png">
+   <img src="/mac-history/images/new-dorms-get-ok.png">
    <figcaption>
           Front page of the <i>Mac Weekly</i>from September 28, 1956, with sketches of future dormitories Turck and Dayton Halls. Macalester College Archives
    </figcaption>

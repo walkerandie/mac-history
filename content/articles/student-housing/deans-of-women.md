@@ -7,7 +7,7 @@ year: 1897
 ---
 
 <figure>
-   <img src="/images/students-elms-porch.jpg">
+   <img src="/mac-history/images/students-elms-porch.jpg">
    <figcaption>
         Students sit on the front porch of The Elms. Macalester College Archives
    </figcaption>

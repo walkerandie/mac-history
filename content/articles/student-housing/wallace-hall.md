@@ -7,7 +7,7 @@ year: 1906
 ---
 
  <figure>
-   <img src="/images/wallace-hall-illustration.png">
+   <img src="/mac-history/images/wallace-hall-illustration.png">
    <figcaption>
         An illustration of Wallace Hall, taken from the . Macalester College Archives
    </figcaption>

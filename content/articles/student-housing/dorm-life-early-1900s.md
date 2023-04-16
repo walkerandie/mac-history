@@ -7,7 +7,7 @@ year: 1900
 ---
 
 <figure>
-   <img src="/images/bleachers-east-old-main.jpeg">
+   <img src="/mac-history/images/bleachers-east-old-main.jpeg">
    <figcaption>
         Spectators climb up bleachers on the athletic field, with East and West Old Main in the background, 1910. Macalester College Archives
    </figcaption>

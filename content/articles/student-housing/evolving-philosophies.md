@@ -7,7 +7,7 @@ year: 2008
 ---
 
 <figure>
-   <img src="/images/housing-proposal-media-attention.png">
+   <img src="/mac-history/images/housing-proposal-media-attention.png">
    <figcaption>
         A graphic from the <i>Mac Weekly</i> shows national coverage of the college's proposed 'gender-blind' housing offerings.
    </figcaption>

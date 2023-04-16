@@ -7,7 +7,7 @@ year: 1939
 ---
 
 <figure>
-   <img src="/images/coed-invasion-mac-weekly.png">
+   <img src="/mac-history/images/coed-invasion-mac-weekly.png">
    <figcaption>
         Front page of the <i>Mac Weekly</i>, September 29, 1944. Macalester College Archives
    </figcaption>
@@ -17,7 +17,7 @@ year: 1939
 In the 20th century, the outbreak of world war and the emergence of national social movements both challenged and reinforced gender norms across the country. For Macalester in particular, World War II was a watershed moment. Women now vastly outnumbered men on campus, as college-aged men were needed on the battlefront, and some administrators worried that the chaos and fear that came with war would lead to sexual immorality and the degradation of norms.[^1] Perhaps they were right— after all, when army air corps trainees moved into Kirk Hall, displacing their former male residents, male and female Macalester students dined together for the first time in Wallace Hall.[^2]  Later, in 1944, female students had to move into Kirk Hall, despite the fact that the building was designed to house men only. [^3] 
 
 <figure>
-   <img src="/images/home-management.png">
+   <img src="/mac-history/images/home-management.png">
    <figcaption>
          Excerpt of the <i>Mac Weekly</i>, October 29, 1943 shows off the residents of Macalester's Home Management house. Macalester College Archives
    </figcaption>

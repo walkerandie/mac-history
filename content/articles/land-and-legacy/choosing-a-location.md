@@ -9,7 +9,7 @@ year: 1882
 The decision of where to build a new college was a difficult one in the early days of Macalester, and the outcome would shape the character of the school for the rest of its history. The trustees of the college chose to sell the dilapidated Winslow House after Charles Macalester’s death and use the funds to purchase a new plot of land.[^1] Many potential places were considered, including plots of land north of University Avenue, in St. Anthony Park and in Minneapolis, somewhere between Fort Snelling and Lake Bde Maka Ska.[^2] However, after much back and forth, the trustees came to a decision in in late January 1882 and chose to purchase 160 acres of land from the estate of Thomas Holyoke.[^3] The land was located on the southwest corner of Snelling and Summit Avenues, right in between the urban centers of Minneapolis and St. Paul. 
 
 <figure>
-   <img src="/images/campus-map_005.jpg">
+   <img src="/mac-history/images/campus-map_005.jpg">
    <figcaption>
         Map with the future campus of Macalester College highlighted in red, located on the Holyoke estate. Macalester College Archives
    </figcaption>

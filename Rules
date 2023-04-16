@@ -1,13 +1,15 @@
 #!/usr/bin/env ruby
 
+prefix_path = "/mac-history"
+
 compile '/**/index.html' do
   filter :erb
   layout '/home.*'
   
   if item.identifier =~ '**/index.*'
-    write item.identifier.to_s
+    write prefix_path + item.identifier.to_s
   else
-    write item.identifier.without_ext + '/index.html'
+    write prefix_path + item.identifier.without_ext + '/index.html'
   end
 end
 
@@ -34,9 +36,9 @@ compile '/**/list.md' do
   layout '/list-layout.*'
 
   if item.identifier =~ '**/index.*'
-    write item.identifier.to_s
+    write prefix_path + item.identifier.to_s
   else
-    write item.identifier.without_ext + '/index.html'
+    write prefix_path + item.identifier.without_ext + '/index.html'
   end
 end
 
@@ -58,14 +60,14 @@ compile '/**/*.md' do
   layout '/article.*'
 
   if item.identifier =~ '**/index.*'
-    write item.identifier.to_s
+    write prefix_path + item.identifier.to_s
   else
-    write item.identifier.without_ext + '/index.html'
+    write prefix_path + item.identifier.without_ext + '/index.html'
   end
 end
 
 compile '/**/*' do
-  write item.identifier.to_s
+  write prefix_path + item.identifier.to_s
 end
 
 layout '/**/*', :erb

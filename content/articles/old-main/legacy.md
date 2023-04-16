@@ -6,7 +6,7 @@ year: 1988
 ---
 
 <figure>
-   <img src="/images/old-main-today.jpeg">
+   <img src="/mac-history/images/old-main-today.jpeg">
    <figcaption>
         Old Main in the winter of 2022. Andie Walker
    </figcaption>

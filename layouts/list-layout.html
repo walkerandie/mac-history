@@ -1,9 +1,5 @@
 <html lang="en">
-  <head>
-    <title> <%= @item[:title] %></title>
-    <meta charset="utf-8">    
-    <link rel="stylesheet" href="/output.css">
-  </head>
+  <%= render '/_head.*' %>
   <body>
     <%= render '/header.*' %>
     <h2 class= "text-xl text-center font-bold p-6" > <%= @item[:section]%></h2>

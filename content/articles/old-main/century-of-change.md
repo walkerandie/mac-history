@@ -6,7 +6,7 @@ year: 1984
 ---
 
 <figure>
-   <img src="/images/old-main-1980s.png">
+   <img src="/mac-history/images/old-main-1980s.png">
    <figcaption>
           Old Main as depicted in Macalester's 1986 college catalog. Macalester College Archives
    </figcaption>
