@@ -10,8 +10,3 @@ prune:
 data_sources:
   - type: filesystem
     encoding: utf-8
-
-deploy:
-  default:
-    kind: git
-    branch: gh-pages
