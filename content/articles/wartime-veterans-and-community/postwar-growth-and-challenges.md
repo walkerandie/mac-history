@@ -6,9 +6,19 @@ order: 6
 year: 1946
 ---
 
+After the war, Macalester continued to see widespread change and faced new challenges. With the passage of the Servicemen’s Readjustment Act (a.k.a. the GI Bill), higher education across the nation saw a flood of new students, often veterans, requiring colleges to quickly expand to accommodate larger student bodies.[^1] Macalester was no exception, and saw its highest enrollment ever by 1946, welcoming hundreds of new veteran students.[^2] This influx of students overwhelmed the college’s facilities, and creativity was required when it came to housing returning veterans in comparison to the typical college student. For instance, veteran students had to be housed temporarily on cots in the gymnasium while Bigelow Hall was constructed.[^3] 
 
-After the war, Macalester continued to see widespread change and new challenges. With the Servicemen’s Readjustment Act (a.k.a. the GI Bill), higher education across the nation saw a flood of new students, often veterans, requiring colleges to quickly expand to accommodate larger student bodies. Macalester was no exception, and saw its highest enrollment ever by 1946, welcoming hundreds of new veteran students. This influx of students overwhelmed the college’s facilities. Further creativity was required when it came to housing returning veterans in comparison to the typical college student. Veteran students had to be housed in the gymnasium on cots while Bigelow Hall was constructed. In addition, many of them simply had different needs. Veteran students were often older, and had spouses and young children to accommodate. Funding from the Federal Public Housing Authority made it possible to construct several temporary apartments for both single and married veterans on the south side of campus. The resulting collection of homes was dubbed “Macville,” and it would come to be a unique community on the Macalester campus for the next few years. 
+In addition, many returning veterans simply had different needs. Veteran students were often older, and had spouses and young children to accommodate. Funding from the Federal Public Housing Authority made it possible to construct several temporary apartments for both single and married veterans on the south side of campus.[^4] The resulting collection of homes was dubbed “Macville,” and it would come to be a unique community on the Macalester campus for the next few years. 
 
-Macville became an enclave for families within the college, with its own culture. By 1964, stadium is built in its place.
 
-conclusion— wartime as a disruptive force that changed long-held practices at Macalester and made for unconventional and temporary communities within the college at large
+[^1]:
+     Serviceman’s Readjustment Act (1944), National Archives, last reviewed May 3, 2022.
+
+[^2]:
+     “GI’s Boost Register Past 1,000,” _The Mac Weekly, _August 9, 1946, Macalester College Archives.
+
+[^3]:
+     “Exams plus Exercise plus Excitement equals Frosh Week”, _Mac Weekly_, September 27, 1947, Macalester College Archives.
+
+[^4]:
+     Macalester College, "Sixty-Second Annual Catalog," College Catalogs, Macalester College Archives, 1947. [https://digitalcommons.macalester.edu/catalogs/80/](https://digitalcommons.macalester.edu/catalogs/80/), 153.

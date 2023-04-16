@@ -15,8 +15,7 @@
           <h5><%=link_to @item[:section], get_section_list(@item[:section]).first%></h5>
         <%end%>
       </div>
-      <img class = "max-w-lg mx-auto" src = "/images/<%= @item[:image_path] %>">
-      <div class = "max-w-xl text-base text-left mx-auto indent-10">
+      <div class = "max-w-xl text-base text-left mx-auto">
           <%= yield %>
       </div>
     </div>
