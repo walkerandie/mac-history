@@ -1,5 +1,5 @@
 ---
-title: Old Main List
+title: Old Main Home
 section: "Old Main"
 list: true
 ---

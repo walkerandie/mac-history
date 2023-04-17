@@ -32,20 +32,20 @@ end
 def articles_in_section(section_name)
   @items
   .select { |item| item[:section] == section_name}
-  .sort_by { |item| item.fetch(:order, 0) }
+  .sort_by { |item| item.fetch(:year, 0) }
 end
 
 def next_item(item)
   idx = articles_in_section(item[:section]).index(item)
   if idx && idx > 0
-    ordered_items[idx + 1]
+    articles_in_section(item[:section])[idx + 1]
   end
 end
 
 def previous_item(item)
   idx = articles_in_section(item[:section]).index(item)
   if idx && idx > 0
-    ordered_items[idx - 1]
+    articles_in_section(item[:section])[idx - 1]
   end
 end
 

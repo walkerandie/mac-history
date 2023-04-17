@@ -1,5 +1,5 @@
 ---
-title: Student Unity List
+title: Student Unity Home
 section: "Student Unity"
 list: true
 ---

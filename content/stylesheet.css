@@ -13,29 +13,41 @@
 
 html, body {
   font-size: 1.25 em;
-  margin: 0.4em;
 }
 
 figure {
   margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+figure img.duo {
+  min-width: 10em;
+  height: auto;
 }
 
 figure img {
-  margin: 1em;
+  max-width: 95%;
+  object-fit: cover;
+}
+
+@media (min-width: 1280px){
+  figure img {
+    min-width : 36em;
+    max-width: 95%;
+    object-fit: cover;
+  }
 }
 
 figure figcaption {
   font-size: 80%;
   color: #444;
+  margin-top: 0.5em;
 }
 
 .footnotes {
   margin-top: 2em;
   border-top: 0.5px solid #888;
   padding-top: 0.5em;
-}
-
-.footnotes li {
 }
 
 .footnotes li p {
@@ -49,22 +61,18 @@ p:first-child {
 
 
 body {
-  background: #fff;
+  background: #FFFBF3;
 }
 
 a {
   text-decoration: none;
 }
 
-img {
-
-}
-
 a:link,
 a:visited {
-  color: #f30;
+  color: #073CD7;
 }
 
 a:hover {
-  color: #f90;
+  color: #2c84fe;
 }

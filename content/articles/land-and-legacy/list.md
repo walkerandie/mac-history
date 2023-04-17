@@ -1,5 +1,5 @@
 ---
-title: Land and Legacy List
+title: Land and Legacy Home
 section: "Land and Legacy"
 list: true
 ---

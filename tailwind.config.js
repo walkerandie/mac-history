@@ -6,7 +6,12 @@ module.exports = {
     "./output/**/*.html"
     ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'bright-blue' : '#2c84fe',
+        'darker-blue' : '#073cd7',
+      }
+    },
   },
   plugins: [],
 }

@@ -1,5 +1,5 @@
 ---
-title: Wartime, Veterans, and Community List
+title: Wartime, Veterans, and Community Home
 section: "Wartime, Veterans, and Community"
 list: true
 ---

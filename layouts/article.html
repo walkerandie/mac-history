@@ -3,6 +3,7 @@
   <body>
     <%= render '/header.*' %>
     <div>
+      <%= render '/_next-and-back.*' %>
       <div class = "text-center">
         <h3 class = "text-2xl font-bold"> <%= @item[:year]%> </h3>
         <h2 class = "text-xl font-medium"> <%= @item[:title]%> </h2>
@@ -10,11 +11,12 @@
           <h5><%=link_to @item[:section], get_section_list(@item[:section]).first%></h5>
         <%end%>
       </div>
-      <div class = "max-w-xl text-base text-left mx-auto">
-          <%= yield %>
+      <div class = "max-w-xl text-base text-left sm:mx-auto m-4">
+          <%= yield %>  
       </div>
+      <%= render '/_next-and-back.*' %>
     </div>
-    <%= render '/footer.*' %>
+    <%= render '/_footer.*' %>
   </body>
 </html>
 

@@ -10,4 +10,4 @@ The union opened partially in the winter of 1951, but it was officially dedicate
 
 
 [^1]:
-    “College Dedicates New Union Today,” _Mac Weekly, _February 6, 1952, Macalester College Archives. 
+    “College Dedicates New Union Today,” _Mac Weekly,_ February 6, 1952, Macalester College Archives. 

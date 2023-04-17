@@ -516,8 +516,16 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.float-right {
+  float: right;
+}
+
 .m-10 {
   margin: 2.5rem;
+}
+
+.m-4 {
+  margin: 1rem;
 }
 
 .mx-auto {
@@ -545,6 +553,14 @@ video {
   display: table;
 }
 
+.grid {
+  display: grid;
+}
+
+.max-w-5xl {
+  max-width: 64rem;
+}
+
 .max-w-sm {
   max-width: 24rem;
 }
@@ -557,16 +573,52 @@ video {
   flex-grow: 1;
 }
 
+.grid-cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.grid-cols-5 {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.grid-rows-1 {
+  grid-template-rows: repeat(1, minmax(0, 1fr));
+}
+
+.flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
 .flex-col {
   flex-direction: column;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
 }
 
 .items-center {
   align-items: center;
 }
 
+.justify-end {
+  justify-content: flex-end;
+}
+
 .justify-center {
   justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-items-center {
+  justify-items: center;
 }
 
 .space-x-6 > :not([hidden]) ~ :not([hidden]) {
@@ -589,9 +641,9 @@ video {
   border-width: 2px;
 }
 
-.border-orange-500 {
+.border-darker-blue {
   --tw-border-opacity: 1;
-  border-color: rgb(249 115 22 / var(--tw-border-opacity));
+  border-color: rgb(7 60 215 / var(--tw-border-opacity));
 }
 
 .bg-blue-50 {
@@ -621,6 +673,10 @@ video {
 
 .text-center {
   text-align: center;
+}
+
+.text-right {
+  text-align: right;
 }
 
 .text-2xl {
@@ -683,29 +739,43 @@ video {
 
 html, body {
   font-size: 1.25 em;
-  margin: 0.4em;
 }
 
 figure {
   margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+figure img.duo {
+  min-width: 10em;
+  height: auto;
 }
 
 figure img {
-  margin: 1em;
+  max-width: 95%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+@media (min-width: 1280px){
+  figure img {
+    min-width : 36em;
+    max-width: 95%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
 }
 
 figure figcaption {
   font-size: 80%;
   color: #444;
+  margin-top: 0.5em;
 }
 
 .footnotes {
   margin-top: 2em;
   border-top: 0.5px solid #888;
   padding-top: 0.5em;
-}
-
-.footnotes li {
 }
 
 .footnotes li p {
@@ -718,21 +788,25 @@ p:first-child {
 }
 
 body {
-  background: #fff;
+  background: #FFFBF3;
 }
 
 a {
   text-decoration: none;
 }
 
-img {
-}
-
 a:link,
 a:visited {
-  color: #f30;
+  color: #073CD7;
 }
 
 a:hover {
-  color: #f90;
+  color: #2c84fe;
+}
+
+@media (min-width: 640px) {
+  .sm\:mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }

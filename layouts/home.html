@@ -13,7 +13,7 @@
               <p class = "text-sm text-slate-500"><%= timeline_article[:section]%></p>
            </div>
            <% else %>
-              <div class = "p-4 border-orange-500 border-2 max-w-sm rounded-xl m-10 shadow-lg justify-center">
+              <div class = "p-4 border-darker-blue border-2 max-w-sm rounded-xl m-10 shadow-lg justify-center">
                <h3 class="inline font-bold"> <%=timeline_article[:year]%></h3>
                 <p><%=timeline_article[:title]%></p>
               </div>
@@ -21,6 +21,6 @@
       <% end %>
       </div>
     </div>
-    <%= render '/footer.*' %>
+    <%= render '/_footer.*' %>
   </body>
 </html>

@@ -2,12 +2,15 @@
     <div class = "flex space-x-6 items-center justify-center">
         <!-- links to section list pages -->
         <div class = "p-3">
-            <a href = "index.html"> Home </a>
+            <a href = "/mac-history/index.html"> Home </a>
         </div>
         <% section_names.each do |section_name| %>
           <div class = "p-3">
             <%= link_to section_name, get_section_list(section_name).first.path %>
           </div>
         <% end %>
+        <div class = "p-3">
+          <a href = "/mac-history/about.html"> About </a>
+      </div>
     </div>
 </div>

@@ -22,7 +22,7 @@ Today, the founding days of Macalester and the decisions made about its location
 However, In 2019, student journalists for the _Mac Weekly_ published a special edition of the college newspaper, _Colonial Macalester,_ reporting on Macalester founder Edward Duffield Neill’s hearty endorsement of white supremacism, his involvement in enforcing settler colonialism in Minnesota, and his rejection of co-education.[^2] Their investigation led many Macalester community members to reconsider the history of the institution of Macalester and its founder, and it ultimately had a tangible impact on Macalester’s campus. After the release of _Colonial Macalester,_ the college chose to remove Neill’s name from the building and revert it to its original name: the Humanities Building. While the story of Macalester may begin with Edward Duffield Neill, student activism has meant that it does not end with him.
 
 [^1]:
-    Barbara Kuzma, “DML Land Acknowledgement created this summer,”  _Mac Weekly, _October 11, 2018, [https://themacweekly.com/75018/uncategorized/dml-land-acknowledgement-created-this-summer/](https://themacweekly.com/75018/uncategorized/dml-land-acknowledgement-created-this-summer/).
+    Barbara Kuzma, “DML Land Acknowledgement created this summer,”  _Mac Weekly,_ October 11, 2018, [https://themacweekly.com/75018/uncategorized/dml-land-acknowledgement-created-this-summer/](https://themacweekly.com/75018/uncategorized/dml-land-acknowledgement-created-this-summer/).
 
 [^2]:
-     Liam McMahon, “Who was Edward Duffield Neill?” _Mac Weekly, _October 31, 2019, [https://themacweekly.com/76882/neill-hall/who-was-edward-duffield-neill/](https://themacweekly.com/76882/neill-hall/who-was-edward-duffield-neill/).
+     Liam McMahon, “Who was Edward Duffield Neill?” _Mac Weekly,_ October 31, 2019, [https://themacweekly.com/76882/neill-hall/who-was-edward-duffield-neill/](https://themacweekly.com/76882/neill-hall/who-was-edward-duffield-neill/).
