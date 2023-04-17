@@ -54,6 +54,11 @@ end
 #     item.identifier.without_ext.to_s + "/index.html"
 # end
 
+compile '/**/about.md' do
+  filter :kramdown
+  layout '/about.*'
+  write prefix_path + item.identifier.without_ext + '.html'
+end
 
 compile '/**/*.md' do
   filter :kramdown
