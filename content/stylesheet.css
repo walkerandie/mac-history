@@ -15,6 +15,10 @@ html, body {
   font-size: 1.25 em;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Zilla Slab', serif;
+}
+
 figure {
   margin-top: 1em;
   margin-bottom: 1em;
@@ -61,7 +65,7 @@ p:first-child {
 
 
 body {
-  background: #FFFBF3;
+  background: #fff9f3;
 }
 
 a {
@@ -70,9 +74,109 @@ a {
 
 a:link,
 a:visited {
-  color: #073CD7;
+  /* color: #073CD7; */
+  color: #2B2A2E;
 }
 
 a:hover {
-  color: #2c84fe;
+  /* color: #2c84fe; */
+  color: #D25F40;
+
+}
+
+/*------------ TIMELINE ------------*/
+
+/* Timeline layout */
+
+.timeline {
+  --dot-size: 0.5em;
+  --track-width: calc(var(--dot-size) / 4);
+  --padding: calc(var(--dot-size) * 2);
+  padding: var(--padding);
+  /* Center line (from https://stackoverflow.com/a/53551089/239816) */
+  background: linear-gradient(#0006, #0006) no-repeat center/var(--track-width) 100%;
+}
+
+.timeline-item {
+  position: relative;
+  width: 50%;
+  padding: 0 calc(var(--dot-size) / 2);
+  clear: both;
+  display: flex;
+}
+
+.timeline-item.milestone {
+  text-align: right;
+  flex-direction: row-reverse;
+}
+
+.timeline-item.article {
+  left: 50%;
+  flex-direction: row;
+}
+
+/* Timeline dots */
+
+.timeline-item:before {
+  content: '';
+  width: var(--dot-size);
+  height: var(--dot-size);
+  border-radius: calc(var(--dot-size) / 2);
+  border: 1px solid black;
+  position: absolute;
+  top: calc(0.75em - var(--dot-size) / 2);
+}
+
+.timeline-item.milestone:before {
+  left: calc(100% - var(--dot-size) / 2);
+  background-color: white;
+}
+
+.timeline-item.article:before {
+  left: calc(var(--dot-size) / -2);
+  background-color: #d25f40;
+}
+
+/* Timeline captions */
+
+.timeline-item.milestone > * {
+  text-align: right;
+}
+
+.timeline-item .year {
+  font-weight: bold;
+  margin: 0 0.5em;
+}
+
+.timeline-item .title {
+}
+
+/* Responsive adjustments */
+
+@media (max-width: 32em){
+  .timeline {
+    background-position-x: calc(var(--padding) - var(--track-width) / 2);
+  }
+
+  .timeline-item {
+    width: 100%;
+  }
+
+  .timeline-item.milestone {
+    text-align: left;
+    flex-direction: row;
+  }
+
+  .timeline-item.article {
+    left: 0;
+    flex-direction: row;
+  }
+
+  .timeline-item.milestone:before {
+    left: calc(var(--dot-size) / -2);
+  }
+
+  .timeline-item.milestone > * {
+    text-align: left;
+  }
 }

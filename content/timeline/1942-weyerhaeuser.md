@@ -1,5 +1,5 @@
 ---
-title: "World War I ends"
+title: "Weyerhaeuser Library (now Weyerhaeuser Hall) opens"
 year: 1942
 ---
 
