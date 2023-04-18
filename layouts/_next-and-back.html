@@ -1,14 +1,27 @@
-<div class = "grid grid-cols-2 justify-between justify-items-center max-w-5xl mx-auto">
+<div class = "grid grid-cols-3 justify-between justify-items-center max-w-5xl mx-auto mb-10">
     <div class = "text-base text-left">
       <% prev_article = previous_item(@item) %>
       <%if prev_article %>
-        <%= link_to prev_article[:title], prev_article.path%>
+      <div>
+        <a class = "inline items-center align-middle flex" href = "<%= prev_article.path%>">
+          <p class = "text-5xl sm:text-2xl font-bold inline pr-2"> < </p>
+          <p class = "hidden sm:flex"> <%=prev_article[:title]%> </p>
+        </a>
+      </div>
       <%end%>
+    </div>
+    <div>
+      <h1 class = "text-4xl text-center"> <%= @item[:year]%></h1>
     </div>
     <div class = "text-base text-right">
       <% next_article = next_item(@item) %>
       <%if next_article %>
-        <%= link_to next_article[:title], next_article.path%>
+      <div>
+        <a class = "inline items-center align-middle flex" href = "<%= next_article.path%>">
+          <p class = "hidden sm:flex"> <%=next_article[:title]%> </p>
+          <p class = "text-5xl sm:text-2xl font-bold inline pl-2"> ></p>
+        </a>
+      </div>
       <%end%>
     </div>
   </div>

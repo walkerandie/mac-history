@@ -5,8 +5,7 @@
     <div>
       <%= render '/_next-and-back.*' %>
       <div class = "text-center">
-        <h3 class = "text-2xl font-bold"> <%= @item[:year]%> </h3>
-        <h2 class = "text-4xl font-medium"> <%= @item[:title]%> </h2>
+        <h2 class = "text-4xl font-bold ml-2 mr-2"> <%= @item[:title]%> </h2>
         <%if @item[:section] %>
           <h5><%=link_to @item[:section], get_section_list(@item[:section]).first%></h5>
         <%end%>

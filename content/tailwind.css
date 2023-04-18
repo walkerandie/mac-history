@@ -529,6 +529,10 @@ video {
   margin-bottom: 2.5rem;
 }
 
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
 .mr-8 {
   margin-right: 2rem;
 }
@@ -537,8 +541,24 @@ video {
   margin-top: 2.5rem;
 }
 
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
+.ml-2 {
+  margin-left: 0.5rem;
+}
+
+.mr-2 {
+  margin-right: 0.5rem;
+}
+
 .inline-block {
   display: inline-block;
+}
+
+.inline {
+  display: inline;
 }
 
 .flex {
@@ -569,6 +589,10 @@ video {
   max-width: 36rem;
 }
 
+.max-w-full {
+  max-width: 100%;
+}
+
 .flex-1 {
   flex: 1 1 0%;
 }
@@ -579,6 +603,10 @@ video {
 
 .grid-cols-2 {
   grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .flex-col {
@@ -621,6 +649,20 @@ video {
   border-radius: 0.75rem;
 }
 
+.border-2 {
+  border-width: 2px;
+}
+
+.border-neutral-500 {
+  --tw-border-opacity: 1;
+  border-color: rgb(115 115 115 / var(--tw-border-opacity));
+}
+
+.border-orangey {
+  --tw-border-opacity: 1;
+  border-color: rgb(210 95 64 / var(--tw-border-opacity));
+}
+
 .bg-transparent {
   background-color: transparent;
 }
@@ -629,12 +671,24 @@ video {
   padding: 0.75rem;
 }
 
+.p-4 {
+  padding: 1rem;
+}
+
 .p-6 {
   padding: 1.5rem;
 }
 
 .p-8 {
   padding: 2rem;
+}
+
+.pl-2 {
+  padding-left: 0.5rem;
+}
+
+.pr-2 {
+  padding-right: 0.5rem;
 }
 
 .text-left {
@@ -649,6 +703,10 @@ video {
   text-align: right;
 }
 
+.align-middle {
+  vertical-align: middle;
+}
+
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
@@ -659,14 +717,14 @@ video {
   line-height: 2.5rem;
 }
 
+.text-5xl {
+  font-size: 3rem;
+  line-height: 1;
+}
+
 .text-base {
   font-size: 1rem;
   line-height: 1.5rem;
-}
-
-.text-lg {
-  font-size: 1.125rem;
-  line-height: 1.75rem;
 }
 
 .text-xl {
@@ -699,7 +757,7 @@ video {
 * {
   margin: 0;
   padding: 0;
-  font-family: Georgia, Palatino, serif;
+  font-family:'Source Sans Pro', sans-serif;
 }
 
 html, body {
@@ -775,12 +833,31 @@ a:hover {
   color: #D25F40;
 }
 
+/* arrow */
+
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
 /*------------ TIMELINE ------------*/
 
 /* Timeline layout */
 
 .timeline {
-  --dot-size: 0.5em;
+  --dot-size: 0.6em;
   --track-width: calc(var(--dot-size) / 4);
   --padding: calc(var(--dot-size) * 2);
   padding: var(--padding);
@@ -794,6 +871,8 @@ a:hover {
   padding: 0 calc(var(--dot-size) / 2);
   clear: both;
   display: flex;
+  max-width: 24rem;
+  /* When applied pushes milestones to left of the screen */
 }
 
 .timeline-item.milestone {
@@ -815,12 +894,13 @@ a:hover {
   border-radius: calc(var(--dot-size) / 2);
   border: 1px solid black;
   position: absolute;
-  top: calc(0.75em - var(--dot-size) / 2);
+  /* top: calc(0.75em - var(--dot-size) / 2); */
+  /* commented out to center dot on timeline card */
 }
 
 .timeline-item.milestone:before {
   left: calc(100% - var(--dot-size) / 2);
-  background-color: white;
+  background-color: #fff9f3;
 }
 
 .timeline-item.article:before {
@@ -836,15 +916,19 @@ a:hover {
 
 .timeline-item .year {
   font-weight: bold;
+  font-family: 'Zilla Slab', serif;
   margin: 0 0.5em;
 }
 
 .timeline-item .title {
+  margin: 0.5em;
 }
 
 /* Responsive adjustments */
 
-@media (max-width: 32em){
+@media (max-width: 40em){
+  /* Upped to 40 em from 32 to keep timeline cards wider on (hopefully) all phones*/
+
   .timeline {
     background-position-x: calc(var(--padding) - var(--track-width) / 2);
   }
@@ -881,10 +965,9 @@ a:hover {
   .sm\:flex {
     display: flex;
   }
-}
 
-@media (min-width: 768px) {
-  .md\:flex {
-    display: flex;
+  .sm\:text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
   }
 }

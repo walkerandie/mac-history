@@ -6,6 +6,9 @@ module.exports = {
     "./output/**/*.html"
     ],
   theme: {
+    fontFamily: {
+      'serif': ['Zilla Slab', 'serif'],
+    },
     extend: {
       colors: {
         'bright-blue' : '#2c84fe',

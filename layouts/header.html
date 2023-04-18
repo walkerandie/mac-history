@@ -1,18 +1,18 @@
 <div class = "flex mb-10 justify-between items-center">
     <div class = "flex-1 inline-block p-8">
         <a href = "/mac-history/index.html">
-            <h1 class = "text-4xl font-bold">Not So Set In Stone</h1>
-            <h2 class = "text-xl">A History of the Macalester College Campus</h2>
+            <h1 class = "text-5xl font-bold">Not So Set In Stone</h1>
+            <h2 class = "text-2xl">A History of the Macalester College Campus</h2>
         </a>
     </div>
     <div class = "flex-2 hidden sm:flex space-x-6 items-center justify-center mr-8">
       <!-- links to section list & about pages -->
-      <div class = "p-3 text-lg">
+      <div class = "p-3 text-xl font-bold">
         <a href = "/mac-history/about.html"> About </a>
       </div>
       <% section_names.each do |section_name| %>
-        <div class = "p-3 text-lg">
-          <h2><%= link_to section_name, get_section_list(section_name).first.path %></h2>
+        <div class = "p-3 text-xl font-bold">
+          <h2> <%=link_to section_name, get_section_list(section_name).first.path%></h2>
         </div>
       <% end %>
   </div>
