@@ -5,6 +5,13 @@ order: 7
 year: 2001
 ---
 
+<figure>
+   <img src="/mac-history/images/cc-backpage.jpg">
+   <figcaption>
+     The February 9, 2001 issue of the <i>Mac Weekly</i> showcases perspectives on the new campus center. Macalester College Archives.
+   </figcaption>
+</figure>
+
 The plans for the new campus center took time to crystallize and gain enough funds. Although the _Mac Weekly_ reported on proposed designs for the Campus Center in the fall of 1993, the center didn’t officially open its doors until January of 2001.[^1]
 
  Although not all the furniture had arrived, and there were long lines for returning trays due to an error with the machine handling the trays, the Mac Weekly reported that the reaction from students was mostly positive. Students enjoyed having a new place to socialize, especially after the long wait for the building to open.[^2] And, they appreciated the better food options— at least, for now. One student told the Mac Weekly that “the food has been really good so far, but it’s not supposed to stay that way.”[^3]

@@ -12,7 +12,7 @@ Macalester’s Old Main was built later than most, with the East Wing constructe
 <figure>
    <img src="/mac-history/images/old-main_008_cropped.jpeg">
    <figcaption>
-        The East Wing and West Wing of Old Main in 1888, shortly after the construction of the West Wing. Macalester College Archives
+        The East Wing and West Wing of Old Main in 1888, shortly after the construction of the West Wing. Macalester College Archives.
    </figcaption>
 </figure>
 

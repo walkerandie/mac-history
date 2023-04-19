@@ -3,7 +3,16 @@ title: "Divisions in the Student Body?"
 section: "Student Unity"
 order: 4
 year: 1952
+timeline_year: 1953
 ---
+
+
+<figure>
+   <img src="/mac-history/images/student-union-1952.png">
+   <figcaption>
+     A photograph of students walking towards the Student Union, from the 1953 college catalog. Macalester College Archives.
+   </figcaption>
+</figure>
 
 Despite the benefits offered by the new union, the building’s design also reflected the ways in which Macalester students and faculty were still divided. The union housed two separate lounges for faculty based on gender, with the men’s lounge featuring “card tables and a pool table,” while the women’s lounge had “sofas, a built-in dressing table and a full length mirror.”[^1] And although the new cafeteria served the male students who previously ate their meals in the dining room of Kirk Hall, the female residents of Wallace Hall and other women’s dorms still took their meals in their respective dorm dining rooms, which remained segregated by gender.[^2] Despite the union’s role as a central place on campus for all to lounge, the building’s design reinforced the structural separation of men and women on campus in ways that would prove to be problematic in the future. 
 

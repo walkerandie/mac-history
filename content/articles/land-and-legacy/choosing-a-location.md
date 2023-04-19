@@ -12,7 +12,7 @@ The decision of where to build a new college was a difficult one in the early da
 <figure>
    <img src="/mac-history/images/campus-map_005.jpg">
    <figcaption>
-        Map with the future campus of Macalester College highlighted in red, located on the Holyoke estate. Macalester College Archives
+        Map with the future campus of Macalester College highlighted in red, located on the Holyoke estate. Macalester College Archives.
    </figcaption>
 </figure>
 

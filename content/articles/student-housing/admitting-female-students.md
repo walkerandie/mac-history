@@ -6,6 +6,12 @@ order: 2
 year: 1893
 ---
 
+<figure>
+   <img src="/mac-history/images/students-old-main.jpg">
+   <figcaption>
+         Students pose for a photo in front of Old Main. Macalester College Archives.
+   </figcaption>
+</figure>
 
 Within a few years of Macalester’s founding, a new challenge would emerge in accommodating the student body on campus: women. Macalester first admitted two women in the fall of 1893. In some ways, this was not a major change for the institution. The precursor to Macalester, the Baldwin School, had served a majority of female students, and the ability to accept more students to the college meant more tuition, something the college certainly needed.[^1] However, this new development went against the wishes of Macalester’s founder, Edward Duffield Neill, who declared that he would not step foot on campus while the college educated women.[^2] 
 

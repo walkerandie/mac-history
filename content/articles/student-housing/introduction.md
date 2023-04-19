@@ -10,7 +10,7 @@ year: 1883
  <figure>
    <img src="/mac-history/images/plant-filled-dorm.jpg">
    <figcaption>
-        A Macalester student in their plant-filled dorm room. Macalester College Archives
+        A Macalester student in their plant-filled dorm room. Macalester College Archives.
    </figcaption>
 </figure>
 

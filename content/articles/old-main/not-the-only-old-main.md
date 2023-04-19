@@ -18,7 +18,7 @@ Like many colleges, Macalester started out with just one building: Old Main. Of 
 <figure>
    <img src="/mac-history/images/old-main_010.jpg">
    <figcaption>
-        The East Wing of Old Main, c. 1885-6. A young man is depicted in the foreground. Macalester College Archives
+        The East Wing of Macalester's Old Main, c. 1885-6. A young man is depicted in the foreground. Macalester College Archives.
    </figcaption>
 </figure>
 

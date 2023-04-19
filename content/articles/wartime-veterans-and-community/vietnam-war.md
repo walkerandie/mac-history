@@ -5,6 +5,12 @@ order: 12
 year: 1970
 ---
 
+<figure>
+   <img src="/mac-history/images/vietnam-crosses.jpeg">
+   <figcaption>
+     White crosses on the lawn in front of Dupre Hall to protest the Vietnam War. The <i>Mac Weekly</i> later published the image with the caption, "May 1970: 'This is what Ohio students and Vietnam peasants have in common.'" Macalester College Archives.
+   </figcaption>
+</figure>
 
 The Vietnam War was another global conflict with repercussions for Macalester. In contrast to the World Wars, when the college mobilized in support of the war effort, the Vietnam War awakened resistance among students. Being drafted was a concern for many Macalester men, enough that the college began offering informal ‘draft counseling,’ to help students understand the draft and learn more about becoming a conscientious objector.[^1] Wth the 1960s and 70s also came a new insurgence of activism and protest on campus. The most dramatic moment was in the aftermath of the Kent State shootings in May of 1970, when four unarmed students were killed by National Guardsmen during an on campus protest of the Vietnam War.
 

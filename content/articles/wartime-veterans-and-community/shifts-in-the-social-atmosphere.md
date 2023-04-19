@@ -3,8 +3,15 @@ title: "Shifts in the Social Atmosphere"
 section: "Wartime, Veterans, and Community"
 image_path: "mac-weekly-wwii.jpg"
 order: 5
-year: 1941
+year: 1942
 ---
+
+<figure>
+   <img src="/mac-history/images/mac-weekly-wwii.jpg">
+   <figcaption>
+     A page from the January 15, 1943 issue of the <i>Mac Weekly</i> shows the typical activities of male students engaging in wartime coursework. Macalester College Archives.
+   </figcaption>
+</figure>
 
 In addition to curricular changes, the student body saw massive shifts as many college-aged men were drafted or enlisted to fight overseas. Campus social life was radically changed as a result.  In an article in the Mac Weekly reflecting on his experience as a member of the class of  1945, senior Gordon Deegan remarked that the war years were “strange ones” where “men were almost an oddity” and that during the second semester, “Macites began the grand exodus to the four corners of the earth. We hated to see them go but that couldn’t stop them. We had made friends and [...] we had to start over again.”[^1] 
 
@@ -12,7 +19,7 @@ Women now outnumbered men on campus, and previously enforced rules were suddenly
 
 
 [^1]:
-     Gordon Deegan, “Seniors, Here Through War Years, Look With Pride to Mac Future,” _Mac Weekly, _December 14, 1945, Macalester College Archives.
+     Gordon Deegan, “Seniors, Here Through War Years, Look With Pride to Mac Future,” _Mac Weekly,_ December 14, 1945, Macalester College Archives.
 
 [^2]:
      Kilde, _Nature and Revelation,_ 177-9.

@@ -8,7 +8,7 @@
       <% min_timeline_spacing = 0  # em (-1.5 = items at same time overlap completely) %>
       <% prev_year = nil %>
       <% timeline.each do |timeline_article| %>
-        <% timeline_spacing = [(timeline_article[:year] - prev_year) * timeline_scale - 1.5, min_timeline_spacing].max if prev_year %>
+        <% timeline_spacing = [((timeline_article[:timeline_year] || timeline_article[:year]) - prev_year) * timeline_scale - 1.5, min_timeline_spacing].max if prev_year %>
         <% if timeline_article[:section] %>
           <div class="timeline-item article">
             <div class="rounded-xl shadow-lg border-bright-blue border-2 mt-2 mb-2 items-center" style="margin-top: <%= timeline_spacing %>em">

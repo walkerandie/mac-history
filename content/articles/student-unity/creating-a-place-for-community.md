@@ -6,7 +6,12 @@ order: 2
 year: 1949
 ---
 
-
+<figure>
+   <img src="/mac-history/images/student-union_002.jpg">
+   <figcaption>
+     A photograph from the  <i>Mac Weekly</i> shows the groundbreaking for the new Student Union. Macalester College Archives.
+   </figcaption>
+</figure>
 
 Plans for a new Student Union building began to crystallize at the end of the 1940s and into 1950. In 1949, a committee of faculty, students, and trustees, headed by college president Dr. Charles Turck met with the student union’s architect, C. Howard Johnston. It was the first time that students and trustees had collaborated on a committee together, and the group continued to meet and finalize plans for the union through 1950.[^1] Students seemed to be eager to hear news of the union, considering that they had all contributed a $10 union fee at registration to help fund the new building. President Turck was careful in explaining the intended purpose of the union, explaining that it would not be for large gatherings, but that it would rather “exist primarily for two purposes: first, as a student social center and eating place, and, secondly, as a meeting spot for campus organizations.”[^2] Some recreational activities, like billiards, would remain in Old Main, and the gymnasium would continue to accommodate larger events, but dances could be held in the new union.[^3]
 

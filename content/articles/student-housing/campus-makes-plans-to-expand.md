@@ -5,10 +5,10 @@ order: 6
 year: 1926
 ---
 
- <figure>
+<figure>
    <img src="/mac-history/images/kirk-hall-sketch.jpg">
    <figcaption>
-        Architect's sketch of Kirk Hall. Macalester College Archives
+        Architect's sketch of Kirk Hall. Macalester College Archives.
    </figcaption>
 </figure>
 

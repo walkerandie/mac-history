@@ -10,7 +10,7 @@ year: 1823
 <figure>
    <img src="/mac-history/images/edward-duffield-neill.jpg">
    <figcaption>
-     Edward Duffield Neill. Macalester College Archives
+     Edward Duffield Neill. Macalester College Archives.
    </figcaption>
 </figure>
 

@@ -6,6 +6,13 @@ order: 6
 year: 1995
 ---
 
+<figure>
+   <img src="/mac-history/images/campus-center_002.jpg">
+   <figcaption>
+     The cover of a booklet outlining the plans for the new Campus Center. Macalester College Archives.
+   </figcaption>
+</figure>
+
 
 By the 1990s, the Student Union had been in place for nearly a half century, and by the fall of 1993, the college was considering new plans for a campus center.[^1] The new building would serve as a new central gathering place and dining hall for students, giving Kagin Commons the chance to serve another purpose. 
 

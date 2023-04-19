@@ -6,27 +6,12 @@ order: 2
 year: 1917
 ---
 
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.222 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Sun Apr 16 2023 09:31:01 GMT-0700 (PDT)
-* Source doc: converter document
------>
-
+<figure>
+   <img src="/mac-history/images/world-war-ii_001.jpg">
+   <figcaption>
+     A headline from the April 24, 1917 issue of the <i>Mac Weekly</i>.Macalester College Archives.
+   </figcaption>
+</figure>
 
 Macalester’s first brush with war came in 1917, when the United States officially entered World War I. US entrance into the war inflamed controversy on campus when eighty-seven students distributed a letter to local news groups and Minnesota lawmakers in February 1917, before the US declared war, advocating for American neutrality and arguing that entrance into the war “would only result in a prolongation of the conflict and an extension of its horrors into America.”[^1]
 

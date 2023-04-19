@@ -16,7 +16,7 @@ year: 1986
      </div>
    </div>
    <figcaption>
-          The East Wing of Old Main undergoing demolition. Macalester College Archives
+          The East Wing of Old Main undergoing demolition. Macalester College Archives.
    </figcaption>
 </figure>
 
@@ -27,9 +27,9 @@ Members of the Macalester community reacted to the demolition of Old Main in dif
 Ultimately, the demolition paved the way for new construction. Just over two years later, DeWitt Wallace Library would open its doors for the first time, in September of 1988.[^3]
 
  <figure>
-   <img src="/mac-history/images/old-main_013.jpg">
+   <img src="/mac-history/images/old-main_016.jpeg">
    <figcaption>
-        Front page of the program for the decommissioning ceremony for the East Wing of Old Main. Macalester College Archives
+        The program for the decommissioning ceremony for the East Wing of Old Main. Macalester College Archives.
    </figcaption>
 </figure>
 
