@@ -3,33 +3,37 @@
   <%= render '/_head.*' %>
   <body>
     <%= render '/header.*' %>
-    <div class = "timeline">
+    <div class="timeline">
       <% timeline_scale = 0.4  # em per year %>
       <% min_timeline_spacing = 0  # em (-1.5 = items at same time overlap completely) %>
       <% prev_year = nil %>
       <% timeline.each do |timeline_article| %>
+        <% timeline_spacing = [(timeline_article[:year] - prev_year) * timeline_scale - 1.5, min_timeline_spacing].max if prev_year %>
         <% if timeline_article[:section] %>
-          <div class = "timeline-item article p-4 rounded-xl shadow-lg border-bright-blue border-2 mt-2 mb-2 items-center" style="margin-top: <%= [(timeline_article[:year] - prev_year) * timeline_scale - 1.5, min_timeline_spacing].max if prev_year %>em">
-            <div class = "year text-xl">
-              <%= timeline_article[:year] %>
+          <div class="timeline-item article">
+            <div class="rounded-xl shadow-lg border-bright-blue border-2 mt-2 mb-2 items-center" style="margin-top: <%= timeline_spacing %>em">
+              <div class="year text-xl">
+                <%= timeline_article[:year] %>
+              </div>
+              <div class="title">
+                <% display_title = (timeline_article[:timeline_title] || timeline_article[:title])%>
+                <%= link_to display_title, timeline_article.path %>
+              </div>
             </div>
-            <div class = "title">
-              <% display_title = (timeline_article[:timeline_title] || timeline_article[:title])%>
-              <%= link_to display_title, timeline_article.path %>
-            </div>
-            <% prev_year = (timeline_article[:timeline_year] || timeline_article[:year]) %>
           </div>
         <% else %>
-          <div class = "timeline-item milestone p-4 rounded-xl shadow-lg border-neutral-500 border-2 mt-2 mb-2 items-center" style="margin-top: <%= [(timeline_article[:year] - prev_year) * timeline_scale - 1.5, min_timeline_spacing].max if prev_year %>em">
-            <div class = "year text-xl">
-              <%= timeline_article[:year] %>
+          <div class="timeline-item milestone">
+            <div class="rounded-xl shadow-lg border-neutral-500 border-2 mt-2 mb-2 items-center" style="margin-top: <%= timeline_spacing %>em">
+              <div class="year text-xl">
+                <%= timeline_article[:year] %>
+              </div>
+              <div class="title">
+                <%= timeline_article[:title]%>
+              </div>
             </div>
-            <div class = "title">
-              <%= timeline_article[:title]%>
-            </div>
-            <% prev_year = timeline_article[:year] %>
           </div>
         <% end %>
+        <% prev_year = (timeline_article[:timeline_year] || timeline_article[:year]) %>
       <% end %>
     </div>
     <%= render '/_footer.*' %>
