@@ -8,63 +8,220 @@
   margin: 0;
   padding: 0;
 
-  font-family: Georgia, Palatino, serif;
+  font-family:'Source Sans Pro', sans-serif;
 }
 
 html, body {
   font-size: 1.25 em;
-  margin: 0.4em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Zilla Slab', serif;
 }
 
 figure {
   margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+figure img.duo {
+  min-width: 10em;
+  height: auto;
 }
 
 figure img {
-  margin: 1em;
+  max-width: 95%;
+  object-fit: cover;
+}
+
+@media (min-width: 1280px){
+  figure img {
+    min-width : 36em;
+    max-width: 95%;
+    object-fit: cover;
+  }
 }
 
 figure figcaption {
   font-size: 80%;
   color: #444;
+  margin-top: 0.5em;
 }
 
-.footnotes {
+p {
+  margin: 1em 0;
+}
+
+.footnotes, .bibliography {
   margin-top: 2em;
   border-top: 0.5px solid #888;
   padding-top: 0.5em;
 }
 
-.footnotes li {
+.footnotes ol {
+  list-style: inside decimal;
 }
 
-.footnotes li p {
+.footnotes li p, .bibliography p {
   margin-left: 2em;
   text-indent: -2em;
 }
 
-p:first-child {
-  text-indent: 0;
-}
-
-
 body {
-  background: #fff;
+  background: #fff9f3;
 }
 
 a {
   text-decoration: none;
 }
 
-img {
-
-}
-
 a:link,
 a:visited {
-  color: #f30;
+  /* color: #073CD7; */
+  color: #010891;
 }
 
 a:hover {
-  color: #f90;
+  /* color: #2c84fe; */
+  color: #4664cd;
+
+}
+
+/* arrow */
+
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+
+
+/*------------ TIMELINE ------------*/
+
+/* Timeline layout */
+
+.timeline {
+  --dot-size: 0.6em;
+  --line-width: calc(var(--dot-size) / 4);
+  --padding: calc(var(--dot-size) * 2);
+  --box-offset: calc(var(--dot-size));
+  padding: var(--padding);
+  /* Center line (from https://stackoverflow.com/a/53551089/239816) */
+  background: linear-gradient(#0006, #0006) no-repeat center/var(--line-width) 100%;
+}
+
+.timeline-item {
+  position: relative;
+  width: 50%;
+  padding: 0 calc(var(--dot-size) / 2);
+  clear: both;
+  display: flex;
+}
+
+.timeline-item.milestone {
+  text-align: right;
+  flex-direction: row-reverse;
+}
+
+.timeline-item.article {
+  left: 50%;
+  flex-direction: row;
+}
+
+.timeline-item > * {
+  display: inline-flex;
+  max-width: 24em;
+  margin-left: var(--box-offset);
+  margin-right: var(--box-offset);
+}
+
+.timeline-item.milestone > * {
+  flex-direction: row-reverse;
+}
+
+.timeline-item.article > * {
+  flex-direction: row;
+}
+
+/* Timeline dots */
+
+.timeline-item > *:before {
+  content: '';
+  width: var(--dot-size);
+  height: var(--dot-size);
+  border-radius: calc(var(--dot-size) / 2);
+  border: 1px solid black;
+  position: absolute;
+}
+
+.timeline-item.milestone > *:before {
+  background-color: #fff9f3; 
+  left: calc(100% - var(--dot-size) / 2);
+}
+
+.timeline-item.article > *:before {
+  background-color: #4664cd;
+  left: calc(var(--dot-size) / -2);
+}
+
+/* Timeline captions */
+
+.timeline-item.milestone > * {
+  text-align: right;
+}
+
+.timeline-item .year {
+  font-weight: bold;
+  font-family: 'Zilla Slab', serif; 
+  margin: 0 0.5em;
+}
+
+.timeline-item .title {
+  margin: 0.5em;
+}
+
+/* Responsive adjustments */
+
+@media (max-width: 40em){ /* Upped to 40 em from 32 to keep timeline cards wider on (hopefully) all phones*/
+  .timeline {
+    background-position-x: calc(var(--padding) - var(--line-width) / 2);
+  }
+
+  .timeline-item {
+    width: 100%;
+  }
+
+  .timeline-item.milestone {
+    text-align: left;
+    flex-direction: row;
+  }
+
+  .timeline-item.milestone > * {
+    flex-direction: row;
+  }
+
+  .timeline-item.article {
+    left: 0;
+    flex-direction: row;
+  }
+
+  .timeline-item.milestone > *:before {
+    left: calc(var(--dot-size) / -2);
+  }
+
+  .timeline-item.milestone > * {
+    text-align: left;
+  }
 }
