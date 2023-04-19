@@ -48,21 +48,21 @@ figure figcaption {
   margin-top: 0.5em;
 }
 
-.footnotes {
+p {
+  margin: 1em 0;
+}
+
+.footnotes, .bibliography {
   margin-top: 2em;
   border-top: 0.5px solid #888;
   padding-top: 0.5em;
 }
 
-.footnotes li p {
+
+.footnotes li p, .bibliography p {
   margin-left: 2em;
   text-indent: -2em;
 }
-
-p:first-child {
-  text-indent: 0;
-}
-
 
 body {
   background: #fff9f3;

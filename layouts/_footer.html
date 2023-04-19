@@ -1,16 +1,31 @@
-<div class = "p-8 bg-transparent mt-10">
-    <div class = "flex space-x-6 items-center justify-center">
-        <!-- links to section list pages -->
-        <div class = "p-3">
-            <a href = "/mac-history/index.html"> Home </a>
+<div>
+  <div class="p-8 bg-transparent mt-10">
+    <div class="hidden md:flex space-x-6 items-center justify-center">
+      <!-- links to section list pages -->
+      <div class="p-3">
+        <a href="/mac-history/index.html"> Home </a>
+      </div>
+      <div class="p-3">
+        <a href="/mac-history/about.html"> About </a>
+      </div>
+      <% section_names.each do |section_name| %>
+        <div class="p-3">
+          <%= link_to section_name, get_section_list(section_name).first.path %>
         </div>
-        <div class = "p-3">
-          <a href = "/mac-history/about.html"> About </a>
-        </div>
-        <% section_names.each do |section_name| %>
-          <div class = "p-3">
-            <%= link_to section_name, get_section_list(section_name).first.path %>
-          </div>
         <% end %>
     </div>
+  </div>
+  <div class="md:hidden pt-2 pb-2 ml-6 mr-6 border-bright-blue border-t-2 ">
+    <!-- links to section list & about pages -->
+    <div>
+      <a class="mx-auto" href="/mac-history/about.html"> About </a>
+    </div>
+    <% section_names.each do |section_name| %>
+      <div>
+        <h2>
+          <%=link_to section_name, get_section_list(section_name).first.path%>
+        </h2>
+      </div>
+      <% end %>
+  </div>
 </div>

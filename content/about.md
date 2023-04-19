@@ -17,7 +17,7 @@ Berning, Nick, and Sarah Fazio. “Campus Center opens doors, dialogue.” _Mac 
 
 “Campus center to open.” _Mac Weekly._ December 15, 2000. Macalester College Archives.
 
-“Cards Swiped!” _Mac Weekly.  _April 29, 1966. Macalester College Archives.
+“Cards Swiped!” _Mac Weekly._ April 29, 1966. Macalester College Archives.
 
 “Co-ed Invasion Crowds Boys From Kirk Hall.” _Mac Weekly._ September 29, 1944. Macalester College Archives.
 
@@ -27,7 +27,7 @@ Berning, Nick, and Sarah Fazio. “Campus Center opens doors, dialogue.” _Mac 
 
 Deegan, Gordon. “Seniors, Here Through War Years, Look With Pride to Mac Future.” _Mac Weekly._ December 14, 1945. Macalester College Archives.
 
-“Everyone’s Talking About the New Campus Center . . .”_Mac Weekly._ February 9, 2001. Macalester College Archives.
+“Everyone’s Talking About the New Campus Center . . .” _Mac Weekly._ February 9, 2001. Macalester College Archives.
 
 “Early birds get no food.” _Mac Weekly._ February 28, 1992. Macalester College Archives.
 
@@ -51,7 +51,7 @@ Holloway, Janet. “Union? It’s Coming!” _Mac Weekly._ October 19, 1951. Mac
 
 Kopp, Elmer J. to Dr. Robert M. Gavin, Jr. November 13, 1985. Box RG 12.1 Buildings on Campus, folder Old Main (East & West). Macalester College Archives. 
 
-Kuklish, Jon. “Which Way Will the Door Swing?” _Mac Weekly._ February 18, 1966. Macalester College Archives
+Kuklish, Jon. “Which Way Will the Door Swing?” _Mac Weekly._ February 18, 1966. Macalester College Archives.
 
 Laughlin, Del. “Dormitory Associations.” _Macalester College Bulletin_ 1, no. 1 (October 1912). Macalester College Archives.
 
@@ -138,7 +138,7 @@ Lathrop, Alan K. _Minnesota Architects : A Biographical Dictionary_. Minneapol
 Martinez, Cal. “First Year Transgender Students Denied All Gender Housing.” _Mac Weekly._ November 3, 2022. [https://themacweekly.com/81574/features/first-year-transgender-students-denied-all-gender-housing/](https://themacweekly.com/81574/features/first-year-transgender-students-denied-all-gender-housing/).
 
 
-McMahon, Liam. “Who was Edward Duffield Neill?” _Mac Weekly, _October 31, 2019. [https://themacweekly.com/76882/neill-hall/who-was-edward-duffield-neill/](https://themacweekly.com/76882/neill-hall/who-was-edward-duffield-neill/).
+McMahon, Liam. “Who was Edward Duffield Neill?” _Mac Weekly,_ October 31, 2019. [https://themacweekly.com/76882/neill-hall/who-was-edward-duffield-neill/](https://themacweekly.com/76882/neill-hall/who-was-edward-duffield-neill/).
 
 “Serviceman’s Readjustment Act (1944)”. National Archives. Last reviewed May 3, 2022.
 

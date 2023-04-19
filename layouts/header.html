@@ -1,30 +1,36 @@
-<div class = "flex flex-wrap mb-10 items-center max-w-full justify-between">
-    <div class = "p-8 shrink-0">
-        <a href = "/mac-history/index.html">
-            <h1 class = "text-5xl font-bold">Not So Set In Stone</h1>
-            <h2 class = "text-2xl">A History of the Macalester College Campus</h2>
-        </a>
+<div class="mb-10">
+  <div class="items-center max-w-full justify-between">
+    <div class="p-8 shrink-0">
+      <a href="/mac-history/index.html">
+        <h1 class="text-4xl md:text-5xl font-bold">Not So Set In Stone</h1>
+        <h2 class="text-xl md:text-2xl">A History of the Macalester College Campus</h2>
+      </a>
     </div>
-    <div class = "hidden md:flex space-x-2 lg:space-x-6 items-center mx-auto lg:mr-8">
+    <div class="hidden md:flex space-x-2 items-center mx-auto justify-center border-bright-blue border-t-2 border-b-2 ">
       <!-- links to section list & about pages -->
-      <div class = "p-3 text-lg min-[1100px]:text-xl font-bold">
-        <a href = "/mac-history/about.html"> About </a>
+      <div class="p-3 text-lg min-[1100px]:text-xl font-bold">
+        <a href="/mac-history/about.html"> About </a>
       </div>
       <% section_names.each do |section_name| %>
-        <div class = "p-3 text-lg min-[1100px]:text-xl font-bold">
-          <h2> <%=link_to section_name, get_section_list(section_name).first.path%></h2>
+        <div class="p-3 text-lg min-[1100px]:text-xl font-bold">
+          <h2>
+            <%=link_to section_name, get_section_list(section_name).first.path%>
+          </h2>
         </div>
-      <% end %>
+        <% end %>
     </div>
-    <div class = "md:hidden">
-      <!-- links to section list & about pages -->
+  </div>
+  <div class="md:hidden pt-2 pb-2 ml-6 mr-6 border-bright-blue border-t-2 border-b-2">
+    <!-- links to section list & about pages -->
+    <div>
+      <a class="mx-auto" href="/mac-history/about.html"> About </a>
+    </div>
+    <% section_names.each do |section_name| %>
       <div>
-        <a href = "/mac-history/about.html"> About </a>
+        <h2>
+          <%=link_to section_name, get_section_list(section_name).first.path%>
+        </h2>
       </div>
-      <% section_names.each do |section_name| %>
-        <div>
-          <h2> <%=link_to section_name, get_section_list(section_name).first.path%></h2>
-        </div>
       <% end %>
-    </div>
+  </div>
 </div>
