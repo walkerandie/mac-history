@@ -2,6 +2,8 @@
 title: "Macville"
 section: "Wartime, Veterans, and Community"
 order: 10
+year: 1946
+timeline-year: 1946.8
 ---
 
 Macville was a unique on-campus neighborhood of apartments built to house 32 married veterans and 32 single veterans.[^1] For many of the couples, living in Macville was the first time they’d lived on their own. The temporary homes allowed students to live with their spouses and families while still attending Macalester. Over time, the residents of Macville established their own community within the college, and they held elections for mayor, hosted events, and performed at school showcases. As the Mac Weekly reported, one skit put on by Macville residents for the “Scotter’s Friday Night” in the spring of 1947 featured a six-foot baby, a pesky traveling salesman, and a possessed potato peeler.[^2] 

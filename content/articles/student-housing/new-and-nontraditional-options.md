@@ -1,5 +1,5 @@
 ---
-title: "New and non-traditional housing options"
+title: "New and Non-traditional Housing Options"
 section: "Student Housing"
 order: 11
 year: 1970

@@ -1,5 +1,5 @@
 ---
-title: "The new Campus Center"
+title: "The New Campus Center"
 section: "Student Unity"
 order: 7
 year: 2001

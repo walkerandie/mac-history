@@ -2,6 +2,7 @@
 title: "Macalester and the Vietnam War"
 section: "Wartime, Veterans, and Community"
 order: 12
+year: 1970
 ---
 
 

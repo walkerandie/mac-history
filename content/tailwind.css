@@ -836,6 +836,10 @@ p {
   padding-top: 0.5em;
 }
 
+.footnotes ol {
+  list-style: inside decimal;
+}
+
 .footnotes li p, .bibliography p {
   margin-left: 2em;
   text-indent: -2em;

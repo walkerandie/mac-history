@@ -20,7 +20,11 @@ year: 1986
    </figcaption>
 </figure>
 
-Members of the Macalester community reacted to the demolition of Old Main in different ways. For some, the loss of East Old Main was an unfortunate but understandable moment. One alum, Paul Stoughton, class of 1929, admitted that even in 1925, the building “was regarded as a disaster about to happen,” and noted that the fact that it “lasted another sixty years is nothing short of miraculous.”[^1] Others were more emotional about the loss. In a poem titled “Ode to Old Main,” John W. Gibson wrote, “Old Main you have served us long and you have served us well/To be battered by that wrecking ball must have been hell.”[^2] On July 23, 1986, spectators watched as a crane with a jaw-like attachment reached over the roof of East Old Main and ate away at the structure until it collapsed. Just over two years later, DeWitt Wallace Library would open its doors for the first time, in September of 1988.[^3]
+On July 23, 1986, spectators watched as a crane with a jaw-like attachment reached over the roof of East Old Main and ate away at the structure until it collapsed.
+
+Members of the Macalester community reacted to the demolition of Old Main in different ways. For some, the loss of East Old Main was an unfortunate but understandable moment. One alum, Paul Stoughton, class of 1929, admitted that even in 1925, the building “was regarded as a disaster about to happen,” and noted that the fact that it “lasted another sixty years is nothing short of miraculous.”[^1] Others were more emotional about the loss. In a poem titled “Ode to Old Main,” John W. Gibson wrote, “Old Main you have served us long and you have served us well/To be battered by that wrecking ball must have been hell.”[^2]
+
+Ultimately, the demolition paved the way for new construction. Just over two years later, DeWitt Wallace Library would open its doors for the first time, in September of 1988.[^3]
 
  <figure>
    <img src="/mac-history/images/old-main_013.jpg">

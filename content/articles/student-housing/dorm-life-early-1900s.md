@@ -13,29 +13,12 @@ year: 1900
    </figcaption>
 </figure>
 
-<!-----
 
-Yay, no errors, warnings, or alerts!
+Looking into student experiences helps to show how college leaders continued to prioritize keeping relations between men and women as limited and chaste as possible in the early 1900s— often to the detriment of women in particular. Wallace Hall had been constructed at a safe distance from the men’s dormitory located in the East Wing of Old Main, which women were prohibited from entering anyways.[^1] There were many similar rules in place just for women, ostensibly to keep them out of trouble.
 
-Conversion time: 0.209 seconds.
+In 1912, Del Laughlin, class of 1913 and president of the student government association, wrote a short article for the Macalester Bulletin describing the different places students lived and the associations in charge of them. In Old Main, thirty men lived together in what Laughlin described as “the best arranged rooms on the campus,” while others lived in the wooden frame house on campus called Edwards Hall, a nearby boarding club called Euthenian Hall, or rented rooms in private homes.[^2] 
 
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Sat Apr 15 2023 16:42:08 GMT-0700 (PDT)
-* Source doc: converter document
------>
-
-
-Looking into student experiences helps to show how college leaders continued to prioritize keeping relations between men and women as limited and chaste as possible in the early 1900s— often to the detriment of women in particular. Wallace Hall had been constructed at a safe distance from the men’s dormitory located in the East Wing of Old Main, which women were prohibited from entering anyways.[^1] There were many similar rules in place just for women, ostensibly to keep them out of trouble. Del Laughlin, class of 1913 and president of the student government association, wrote a short article for the Macalester Bulletin in 1912 describing the different places students lived and the associations in charge of them. In Old Main, thirty men lived together in what Laughlin described as “the best arranged rooms on the campus,” while others lived in the wooden frame house on campus called Edwards Hall, a nearby boarding club called Euthenian Hall, or rented rooms in private homes.[^2] However, Laughlin writes, “chief in interest among Macalester dormitories is Wallace Hall, with its sixty-seven fair inmates.”[^3] According to Laughlin, dorm life was luxurious for the fair women of Wallace, similar to how the college had marketed the hall. Speaking for the men of Macalester, he wrote that Wallace Hall, “with its beautiful location, [...] its sunny dining room, and its spacious parlors, makes the accommodations for the sterner sex seem by contrast even more crude and inadequate.”[^4] However,  “the girls [had to be] ‘in’ at 7:30 p. m. except by special permission” from the Dean of Women, and “lights [were] out and doors [were] locked at 10:30” each night.  On the other hand, Laughlin explains that in the men’s dormitory, the philosophy was that “every man is permitted to come, go, and do as he pleases so long as he neither breaks the rules of the college nor infringes upon the rights of the other fellow.” Living on campus meant agreeing to be subjected to the college’s rules, which often relied on double standards for women, a disparity that would last for decades.
+However, Laughlin writes, “chief in interest among Macalester dormitories is Wallace Hall, with its sixty-seven fair inmates.”[^3] According to Laughlin, dorm life was luxurious for the fair women of Wallace, similar to how the college had marketed the hall. Speaking for the men of Macalester, he wrote that Wallace Hall, “with its beautiful location, [...] its sunny dining room, and its spacious parlors, makes the accommodations for the sterner sex seem by contrast even more crude and inadequate.”[^4] However,  “the girls [had to be] ‘in’ at 7:30 p. m. except by special permission” from the Dean of Women, and “lights [were] out and doors [were] locked at 10:30” each night.  On the other hand, Laughlin explains that in the men’s dormitory, the philosophy was that “every man is permitted to come, go, and do as he pleases so long as he neither breaks the rules of the college nor infringes upon the rights of the other fellow.” Living on campus meant agreeing to be subjected to the college’s rules, which often relied on double standards for women, a disparity that would last for decades.
 
 
 [^1]:

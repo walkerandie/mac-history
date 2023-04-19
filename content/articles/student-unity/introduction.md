@@ -1,5 +1,6 @@
 ---
 title: "Introduction"
+timeline_title: "Student Unity: Introduction"
 section: "Student Unity"
 image_path: "kagin-commons_005.jpg"
 order: 1
