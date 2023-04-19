@@ -1040,14 +1040,6 @@ a:hover {
 }
 
 @media (min-width: 1024px) {
-  .lg\:mr-10 {
-    margin-right: 2.5rem;
-  }
-
-  .lg\:ml-10 {
-    margin-left: 2.5rem;
-  }
-
   .lg\:ml-20 {
     margin-left: 5rem;
   }
