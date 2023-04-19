@@ -1,5 +1,6 @@
 ---
 title: "Choosing a Location"
+timeline_title: "Choosing Macalester's Location"
 section: "Land and Legacy"
 image_path: "campus-map_005.jpg"
 order: 4

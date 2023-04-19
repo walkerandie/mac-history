@@ -1,9 +1,11 @@
 ---
 title: "Introduction"
+timeline_title: "Land and Legacy: Introduction"
 section: "Land and Legacy"
 image_path: "view-of-campus.jpg"
 order: 1
 year: 1822
+
 ---
 
 <figure>

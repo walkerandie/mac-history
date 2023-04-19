@@ -1,30 +1,10 @@
 ---
 title: "Admitting female students & Neill controversy"
+timeline_title: "Macalester begins admitting women"
 section: "Student Housing"
 order: 2
 year: 1893
 ---
-
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.201 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Sat Apr 15 2023 16:40:40 GMT-0700 (PDT)
-* Source doc: converter document
------>
 
 
 Within a few years of Macalester’s founding, a new challenge would emerge in accommodating the student body on campus: women. Macalester first admitted two women in the fall of 1893. In some ways, this was not a major change for the institution. The precursor to Macalester, the Baldwin School, had served a majority of female students, and the ability to accept more students to the college meant more tuition, something the college certainly needed.[^1] However, this new development went against the wishes of Macalester’s founder, Edward Duffield Neill, who declared that he would not step foot on campus while the college educated women.[^2] 

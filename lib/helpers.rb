@@ -6,14 +6,14 @@ use_helper Nanoc::Helpers::LinkTo
 def timeline
   @items
     .reject { |item| item[:year].nil? }
-    .sort_by { |item| item[:year] }
+    .sort_by{ |item| (item[:timeline_year] || item[:year]) }
 end
 
 def items_in_section(section_name)
   @items
     .select { |item| item[:section] == section_name}
     .reject { |item| item[:year].nil? }
-    .sort_by{ |item| item[:year] }
+    .sort_by{ |item| (item[:timeline_year] || item[:year]) }
  end
 
  def section_names
@@ -32,7 +32,7 @@ end
 def articles_in_section(section_name)
   @items
   .select { |item| item[:section] == section_name}
-  .sort_by { |item| item.fetch(:year, 0) }
+  .sort_by { |item| item.fetch((:timeline_year || :year), 0) }
 end
 
 def next_item(item)

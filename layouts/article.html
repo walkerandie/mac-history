@@ -5,15 +5,15 @@
     <div>
       <%= render '/_next-and-back.*' %>
       <div class = "text-center">
-        <h2 class = "text-4xl font-bold ml-2 mr-2"> <%= @item[:title]%> </h2>
-        <%if @item[:section] %>
+        <h2 class = "text-4xl font-bold ml-2 mr-2 mb-4"> <%= @item[:title]%> </h2>
+        <!-- <%if @item[:section] %>
           <h5><%=link_to @item[:section], get_section_list(@item[:section]).first%></h5>
-        <%end%>
+        <%end%> -->
       </div>
       <div class = "max-w-xl text-base text-left sm:mx-auto m-4 lg:">
           <%= yield %>  
       </div>
-      <%= render '/_next-and-back.*' %>
+      <%= render '/_lower-next-and-back.*' %>
     </div>
     <%= render '/_footer.*' %>
   </body>

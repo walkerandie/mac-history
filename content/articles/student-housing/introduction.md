@@ -1,5 +1,6 @@
 ---
 title: "Introduction"
+timeline_title: "Student Housing: Introduction"
 section: "Student Housing"
 image_path: "plant-filled-dorm.jpg"
 order: 1

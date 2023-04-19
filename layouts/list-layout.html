@@ -2,14 +2,20 @@
   <%= render '/_head.*' %>
   <body>
     <%= render '/header.*' %>
-    <h2 class= "text-xl text-center font-bold p-6" > <%= @item[:section]%></h2>
-    <div class = "flex flex-col space-y-6">
-      <% items_in_section(@item[:section]).each do |article| %> 
-        <div class="p-6 bg-transparent max-w-sm mx-auto rounded-xl shadow-lg items-center">
-          <p><%= link_to article[:title], article.path%></p>
-        </div>
+    <h2 class= "text-4xl text-center font-bold ml-2 mr-2 mb-4" > <%= @item[:section]%></h2>
+    
+    <div class = "space-y-6">
+      <% items_in_section(@item[:section]).each do |article| %>
+        <div class = "flex article max-w-sm p-4 rounded-xl shadow-lg border-bright-blue border-2 mx-auto mt-2 mb-2 items-center">
+          <div class = "year text-xl font-bold font-serif pr-2">
+            <%= article[:year] %>
+          </div>
+          <div class = "title">
+            <%= link_to article[:title], article.path %>
+          </div>
+        </div> 
       <% end %>
-  </div>
+    </div>
   <%= render '/_footer.*' %>
   </body>
 </html>

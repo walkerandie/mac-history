@@ -1,5 +1,6 @@
 ---
 title: "Introduction"
+timeline_title: "Wartime, Veterans, and Community: Introduction"
 section: "Wartime, Veterans, and Community"
 image_path: "world-war-ii_001.jpg"
 order: 1

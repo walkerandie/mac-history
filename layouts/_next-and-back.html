@@ -1,27 +1,28 @@
-<div class = "grid grid-cols-3 justify-between justify-items-center max-w-5xl mx-auto mb-10">
-    <div class = "text-base text-left">
-      <% prev_article = previous_item(@item) %>
-      <%if prev_article %>
-      <div>
-        <a class = "inline items-center align-middle flex" href = "<%= prev_article.path%>">
-          <p class = "text-5xl sm:text-2xl font-bold inline pr-2"> < </p>
-          <p class = "hidden sm:flex"> <%=prev_article[:title]%> </p>
-        </a>
-      </div>
-      <%end%>
-    </div>
+<div class = "grid grid-cols-3 justify-between justify-items-center max-w-5xl mx-auto mb-4">
+  <div class = "text-base text-left">
+    <% prev_article = previous_item(@item) %>
+    <%if prev_article %>
     <div>
-      <h1 class = "text-4xl text-center"> <%= @item[:year]%></h1>
+      <a class = "inline items-center align-middle flex" href = "<%= prev_article.path%>">
+        <p class = "text-5xl sm:text-2xl font-bold inline pr-2"> < </p>
+        <p class = "hidden sm:flex"> <%=prev_article[:title]%> </p>
+      </a>
     </div>
-    <div class = "text-base text-right">
-      <% next_article = next_item(@item) %>
-      <%if next_article %>
-      <div>
-        <a class = "inline items-center align-middle flex" href = "<%= next_article.path%>">
-          <p class = "hidden sm:flex"> <%=next_article[:title]%> </p>
-          <p class = "text-5xl sm:text-2xl font-bold inline pl-2"> ></p>
-        </a>
-      </div>
-      <%end%>
-    </div>
+    <%end%>
   </div>
+  <div>
+    <h1 class = "text-4xl text-center"> <%= @item[:year]%></h1>
+    <h2 class = "pt-2"> <%=link_to @item[:section], get_section_list(@item[:section]).first%> </h2>
+  </div>
+  <div class = "text-base text-right">
+    <% next_article = next_item(@item) %>
+    <%if next_article %>
+    <div>
+      <a class = "inline items-center align-middle flex" href = "<%= next_article.path%>">
+        <p class = "hidden sm:flex"> <%=next_article[:title]%> </p>
+        <p class = "text-5xl sm:text-2xl font-bold inline pl-2"> ></p>
+      </a>
+    </div>
+    <%end%>
+  </div>
+</div>

@@ -75,12 +75,12 @@ a {
 a:link,
 a:visited {
   /* color: #073CD7; */
-  color: #2B2A2E;
+  color: #010891;
 }
 
 a:hover {
   /* color: #2c84fe; */
-  color: #D25F40;
+  color: #4664cd;
 
 }
 
@@ -156,7 +156,7 @@ a:hover {
 
 .timeline-item.article:before {
   left: calc(var(--dot-size) / -2);
-  background-color: #d25f40;
+  background-color: #4664cd;
 }
 
 /* Timeline captions */

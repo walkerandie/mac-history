@@ -60,9 +60,19 @@ compile '/**/about.md' do
   write prefix_path + item.identifier.without_ext + '.html'
 end
 
-compile '/**/*.md' do
+compile '/**/articles/**/*.md' do
   filter :kramdown
   layout '/article.*'
+
+  if item.identifier =~ '**/index.*'
+    write prefix_path + item.identifier.to_s
+  else
+    write prefix_path + item.identifier.without_ext + '/index.html'
+  end
+end
+
+compile '/**/timeline/**/*.md' do
+  filter :kramdown
 
   if item.identifier =~ '**/index.*'
     write prefix_path + item.identifier.to_s

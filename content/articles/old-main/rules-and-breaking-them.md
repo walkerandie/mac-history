@@ -1,5 +1,6 @@
 ---
 title: "Rules and Breaking Them"
+timeline_title: "Discipline in Macalester's early years"
 section: "Old Main"
 image_path: "female-students-dorm-1910.jpg"
 order: 3

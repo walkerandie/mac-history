@@ -1,10 +1,11 @@
 ---
 title: "Money Troubles"
+timeline_title: "Old Main and Money Troubles"
 section: "Old Main"
 image_path: "old-main_008_cropped.jpeg"
 order: 2
 year: 1883
-
+timeline_year: 1883.1
 ---
 Macalester’s Old Main was built later than most, with the East Wing constructed first in 1883.[^1] A competition was held among architects for who would get to design the college’s first building. Multiple designs were considered, however it was the firm of Willcox and Smith who cinched the final deal.[^2] In the East Wing, the basement held the communal dining room, the first floor housed the chapel and several classrooms, and the second and third floors were devoted to housing for students.[^3] 
 
