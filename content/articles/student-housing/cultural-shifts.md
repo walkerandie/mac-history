@@ -3,7 +3,7 @@ title: "Cultural Shifts: World War II"
 section: "Student Housing"
 image_path: "coed-invasion-mac-weekly.png"
 order: 6
-year: 1939
+year: 1941
 ---
 
 <figure>
