@@ -10,7 +10,7 @@ year: 1823
 <figure>
    <img src="/mac-history/images/edward-duffield-neill.jpg">
    <figcaption>
-     Edward Duffield Neill. Macalester College Archives.
+     Edward Duffield Neill. © Macalester College Archives.
    </figcaption>
 </figure>
 
@@ -26,10 +26,10 @@ In 1849, Neill arrived in the capital city of St. Paul less than two weeks after
      Ibid., 15-16.
 
 [^3]:
-    Kilde, _Nature and Revelation_., 17.
+    Ibid., 17.
 
 [^4]:
-     Ibid., 17.
+     Ibid.
 
 [^5]:
      Ibid., 14.

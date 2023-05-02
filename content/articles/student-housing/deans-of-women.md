@@ -9,7 +9,7 @@ year: 1897
 <figure>
    <img src="/mac-history/images/students-elms-porch.jpg">
    <figcaption>
-        Students sit on the front porch of The Elms. Macalester College Archives.
+        Students sit on the front porch of The Elms. © Macalester College Archives.
    </figcaption>
 </figure>
 
@@ -19,7 +19,7 @@ In the early 1900s, women were seen as having different needs from men when it c
 <figure>
    <img src="/mac-history/images/julia-johnson.jpg">
    <figcaption>
-         Julia Johnson in her study. Macalester College Archives.
+         Julia Johnson in her study. © Macalester College Archives.
    </figcaption>
 </figure>
 

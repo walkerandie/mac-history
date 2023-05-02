@@ -9,7 +9,7 @@ year: 1960
 <figure>
    <img src="/mac-history/images/students-dorm-room.jpg">
    <figcaption>
-          Students chat in a dorm room. Macalester College Archives.
+          Students chat in a dorm room. © Macalester College Archives.
    </figcaption>
 </figure>
 
@@ -20,11 +20,11 @@ However, by the 1960s, Macalester students were increasingly questioning the way
 <figure>
    <img src="/mac-history/images/macalester-women.png">
    <figcaption>
-          A headline from the February 25, 1966 edition of the <i>Mac Weekly</i>. Macalester College Archives.
+          A headline from the February 25, 1966 edition of the <i>Mac Weekly</i>. © Macalester College Archives.
    </figcaption>
 </figure>
 
-The issue of “women’s hours” was a recurring one throughout the fifties and sixties. As early as 1953, a Mac Weekly poll showed that 74% were dissatisfied with the implementation of women’s hours.[^2] That dissatisfaction continued to simmer over the next several years, even as some reforms were made. Throughout the fifties and sixties, students often raised the issue during student government elections or in opinion articles for the Mac Weekly, but change was slow to come.[^3] Other students used more guerilla tactics to protest the rules. A Mac Weekly article from April 1966 explains that the sign-in cards for the residents of Wallace Hall had been stolen, destroying the record of whether or not the students had used their limited number of  “grace minutes” or “one o’clocks.”[^4] Eventually, restrictions for women over 21 were removed completely, but students in their first and second year at Macalester still faced stricter rules. In 1968, the women’s hours system was significantly scaled back after successful votes in the student government.[^5] The new policy only gave curfews to first semester freshmen, whose restrictions would be lifted by second semester unless their parents objected.[^6] Women’s curfews were finally eliminated during the 1969-1970 school year, when the college made the decision to offer co-ed halls for the first time. After years of division, complicated rules, and dissatisfaction from students, the college eliminated one of its longest standing practices and broke down one of the most significant barriers between students on campus.
+The issue of “women’s hours” was a recurring one throughout the fifties and sixties. As early as 1953, a Mac Weekly poll showed that 74% of students were dissatisfied with the implementation of women’s hours.[^2] That dissatisfaction continued to simmer over the next several years, even as some reforms were made. Students often raised the issue during student government elections or in opinion articles for the Mac Weekly, but change was slow to come.[^3] Other students used more guerilla tactics to protest the rules. A Mac Weekly article from April 1966 explains that the sign-in cards for the residents of Wallace Hall had been stolen, destroying the record of whether or not the students had used their limited number of  “grace minutes” or “one o’clocks.”[^4] Eventually, restrictions for women over 21 were removed completely, but students in their first and second year at Macalester still faced stricter rules. In 1968, the women’s hours system was significantly scaled back after successful votes in the student government.[^5] The new policy only gave curfews to first semester freshmen, whose restrictions would be lifted by second semester unless their parents objected.[^6] Women’s curfews were finally eliminated during the 1969-1970 school year, when the college made the decision to offer co-ed halls for the first time. After years of division, complicated rules, and dissatisfaction from students, the college eliminated one of its longest standing practices and broke down one of the most significant barriers between students on campus.
 
 [^1]:
      Macalester College, "Macalester College Bulletin,” College Catalogs, Macalester College Archives, 1964, [https://digitalcommons.macalester.edu/catalogs/93/](https://digitalcommons.macalester.edu/catalogs/93/).

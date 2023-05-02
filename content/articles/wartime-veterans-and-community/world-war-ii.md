@@ -10,7 +10,7 @@ timeline-year: 1940
 <figure>
    <img src="/mac-history/images/mac-yearbook-42_001.jpg">
    <figcaption>
-     A page from the Macalester 1942 yearbook. The photo in the top right shows students engaging in wartime first aid coursework. Macalester College Archives.
+     A page from the Macalester 1942 yearbook. The photo in the top right shows students engaging in wartime first aid coursework. © Macalester College Archives.
    </figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ year: 1941
 <figure>
    <img src="/mac-history/images/coed-invasion-mac-weekly.png">
    <figcaption>
-        Front page of the <i>Mac Weekly</i>, September 29, 1944. Macalester College Archives.
+        Front page of the <i>Mac Weekly</i>, September 29, 1944. © Macalester College Archives.
    </figcaption>
 </figure>
 
@@ -19,7 +19,7 @@ In the 20th century, the outbreak of world war and the emergence of national soc
 <figure>
    <img src="/mac-history/images/home-management.png">
    <figcaption>
-         Excerpt of the <i>Mac Weekly</i>, October 29, 1943 shows off the residents of Macalester's Home Management house. Macalester College Archives.
+         Excerpt of the <i>Mac Weekly</i>, October 29, 1943 shows off the residents of Macalester's Home Management house. © Macalester College Archives.
    </figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ However, although traditional practices around gender were challenged in some wa
      Ibid.
 
 [^6]:
-      Kilde, _Nature and Revelation,_ 177
+      Kilde, _Nature and Revelation,_ 177.
 
 [^7]:
-     Kilde, _Nature and Revelation,_ 177. Current students will note that the bell tower’s significance has changed somewhat.
+     Ibid. Current students will note that the bell tower’s significance has changed somewhat.

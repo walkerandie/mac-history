@@ -9,7 +9,7 @@ year: 1949
 <figure>
    <img src="/mac-history/images/student-union_002.jpg">
    <figcaption>
-     A photograph from the  <i>Mac Weekly</i> shows the groundbreaking for the new Student Union. Macalester College Archives.
+     A photograph from the  <i>Mac Weekly</i> shows the groundbreaking for the new Student Union. © Macalester College Archives.
    </figcaption>
 </figure>
 
@@ -25,4 +25,4 @@ The design of the student union captured the interest of Macalester students thr
      Gehrenbeck, “Union Plans.”
 
 [^3]:
-     Gehrenbeck, “Union Plans.”
+     Ibid.

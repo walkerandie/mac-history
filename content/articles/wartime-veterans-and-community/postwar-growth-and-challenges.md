@@ -9,7 +9,7 @@ year: 1946
 <figure>
    <img src="/mac-history/images/veteran-in-gym.png">
    <figcaption>
-     A photograph from the September 27, 1946 issue of the <i>Mac Weekly</i>. Macalester College Archives.
+     A photograph from the September 27, 1946 issue of the <i>Mac Weekly</i>. © Macalester College Archives.
    </figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ In addition, many returning veterans simply had different needs. Veteran student
      Serviceman’s Readjustment Act (1944), National Archives, last reviewed May 3, 2022.
 
 [^2]:
-     “GI’s Boost Register Past 1,000,” _The Mac Weekly, _August 9, 1946, Macalester College Archives.
+     “GI’s Boost Register Past 1,000,” _The Mac Weekly,_ August 9, 1946, Macalester College Archives.
 
 [^3]:
      “Exams plus Exercise plus Excitement equals Frosh Week”, _Mac Weekly_, September 27, 1947, Macalester College Archives.

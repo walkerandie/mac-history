@@ -71,6 +71,8 @@ Macalester College. "Macalester College Bulletin.” College Catalogs. Macaleste
 
 Macalester College. "Macalester College Bulletin.” College Catalogs. Macalester College Archives. 1970. [https://digitalcommons.macalester.edu/catalogs/98/](https://digitalcommons.macalester.edu/catalogs/98/).
 
+Macalester College. "Macalester College Bulletin," College Catalogs. Macalester College Archives. 1972. [https://digitalcommons.macalester.edu/catalogs/100/](https://digitalcommons.macalester.edu/catalogs/100/).
+
 Macalester College. "Sixty-Second Annual Catalog." College Catalogs. Macalester College Archives. 1947. [https://digitalcommons.macalester.edu/catalogs/80/](https://digitalcommons.macalester.edu/catalogs/80/).
 
 Macalester College. “Twelfth Annual Catalogue.” College Catalogs. Macalester College Archives. 1896. [https://digitalcommons.macalester.edu/catalogs/30/](https://digitalcommons.macalester.edu/catalogs/30/). 

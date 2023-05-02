@@ -10,7 +10,7 @@ year: 1914
 <figure>
    <img src="/mac-history/images/world-war-ii_001.jpg">
    <figcaption>
-     Air corps trainees on campus during World War II. Macalester College Archives.
+     Air corps trainees on campus during World War II. © Macalester College Archives.
    </figcaption>
 </figure>
 

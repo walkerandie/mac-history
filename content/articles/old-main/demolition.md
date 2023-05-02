@@ -16,7 +16,7 @@ year: 1986
      </div>
    </div>
    <figcaption>
-          The East Wing of Old Main undergoing demolition. Macalester College Archives.
+          The East Wing of Old Main undergoing demolition. © Macalester College Archives.
    </figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ Ultimately, the demolition paved the way for new construction. Just over two yea
  <figure>
    <img src="/mac-history/images/old-main_016.jpeg">
    <figcaption>
-        The program for the decommissioning ceremony for the East Wing of Old Main. Macalester College Archives.
+        The program for the decommissioning ceremony for the East Wing of Old Main. © Macalester College Archives.
    </figcaption>
 </figure>
 
@@ -40,4 +40,4 @@ Ultimately, the demolition paved the way for new construction. Just over two yea
      Gibson, John W. “Ode to Old Main,” poem and photo collage, July 26, 1986, box RG 12.1 Buildings on Campus, folder Old Main (East & West), Macalester College Archives. 
 
 [^3]:
-     Ethan Lebovics, “New library opens doors to students,” _Mac Weekly, _September 9, 1988, Macalester College Archives.
+     Ethan Lebovics, “New library opens doors to students,” _Mac Weekly,_ September 9, 1988, Macalester College Archives.

@@ -8,7 +8,7 @@ year: 1970
 <figure>
    <img src="/mac-history/images/vietnam-crosses.jpeg">
    <figcaption>
-     White crosses on the lawn in front of Dupre Hall to protest the Vietnam War. The <i>Mac Weekly</i> later published the image with the caption, "May 1970: 'This is what Ohio students and Vietnam peasants have in common.'" Macalester College Archives.
+     White crosses on the lawn in front of Dupre Hall to protest the Vietnam War. The <i>Mac Weekly</i> later published the image with the caption, "May 1970: 'This is what Ohio students and Vietnam peasants have in common.'" © Macalester College Archives.
    </figcaption>
 </figure>
 
@@ -18,7 +18,7 @@ The Vietnam War was another global conflict with repercussions for Macalester. I
 In response to the Kent State shootings, Macalester joined the nationwide student strike. Mac students took over Grand Avenue with protests and sent a delegation of students to Washington, D.C. to discuss changes with lawmakers.[^2] On May 6, the college closed for the week, and faculty voted to allow students to participate in the strike without academic penalty.[^3]
 
 
-In contrast to the response to previous wars, students were more engaged in making change than ever before. An article in the Mac Weekly published in the aftermath of the school strike helped sum up the impact of the 1960s and the Vietnam War on the atmosphere at Macalester: 
+In contrast to the response to previous wars, students were more engaged in making change than ever before. An article in the _Mac Weekly_ published in the aftermath of the school strike helped sum up the impact of the 1960s and the Vietnam War on the atmosphere at Macalester: 
 
 
 “When we were freshmen the predominant attitudes were: (1) fundamental confidence in the responsiveness of our governmental and educational institutions; (2) broadly based willingness to let the establishment leadership carry the ball; (3) a prevailing belief in something called the public interest; and (4) a fundamentally nonpolitical self-perception. All that has changed.”[^4]
@@ -31,10 +31,10 @@ Throughout Macalester’s history, wartime has served as a disruptive force that
      Dave List, “Mac gives the dope to reluctant soldiers once again this year,” _Mac Weekly,_ October 2, 1970, Macalester College Archives.
 
 [^2]:
-     “Strike diary,” _Mac Weekly, _May 19, 1970, Macalester College Archives. 
+     “Strike diary,” _Mac Weekly,_ May 19, 1970, Macalester College Archives. 
 
 [^3]:
      Ibid.
 
 [^4]:
-     “The years of change: a Macalester microcosm,” _Mac Weekly, _May 19, 1970, Macalester College Archives.
+     “The years of change: a Macalester microcosm,” _Mac Weekly,_ May 19, 1970, Macalester College Archives.

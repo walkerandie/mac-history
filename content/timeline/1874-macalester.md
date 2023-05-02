@@ -1,6 +1,6 @@
 ---
 title: "Charles Macalester dies, leaving behind fund to establish new college"
-year: 1873
+year: 1874
 ---
 
-Charles Macalester dies, leaving fund to establish new college
+Charles Macalester dies, leaving behind fund to establish new college

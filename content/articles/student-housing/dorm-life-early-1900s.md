@@ -3,25 +3,25 @@ title: "Dorm Life in the Early 1900s"
 section: "Student Housing"
 image_path: "bleachers-east-old-main.jpeg"
 order: 5
-year: 1900
+year: 1912
 ---
 
 <figure>
    <img src="/mac-history/images/bleachers-east-old-main.jpeg">
    <figcaption>
-        Spectators climb up bleachers on the athletic field, with East and West Old Main in the background, 1910. Macalester College Archives.
+        Spectators climb up bleachers on the athletic field, with East and West Old Main in the background, 1910. © Macalester College Archives.
    </figcaption>
 </figure>
 
 
-Looking into student experiences helps to show how college leaders continued to prioritize keeping relations between men and women as limited and chaste as possible in the early 1900s— often to the detriment of women in particular. Wallace Hall had been constructed at a safe distance from the men’s dormitory located in the East Wing of Old Main, which women were prohibited from entering anyways.[^1] There were many similar rules in place just for women, ostensibly to keep them out of trouble.
+College leaders continued to prioritize keeping relations between men and women as limited and chaste as possible in the early 1900s— often to the detriment of women in particular. Wallace Hall had been constructed at a safe distance from the men’s dormitory located in the East Wing of Old Main, which women were prohibited from entering anyways.[^1] There were many similar rules in place just for women, ostensibly to keep them out of trouble.
 
 In 1912, Del Laughlin, class of 1913 and president of the student government association, wrote a short article for the Macalester Bulletin describing the different places students lived and the associations in charge of them. In Old Main, thirty men lived together in what Laughlin described as “the best arranged rooms on the campus,” while others lived in the wooden frame house on campus called Edwards Hall, a nearby boarding club called Euthenian Hall, or rented rooms in private homes.[^2] 
 
 <figure>
    <img src="/mac-history/images/edwards-hall.jpg">
    <figcaption>
-        Edwards Hall, c. 1892-1898. Macalester College Archives.
+        Edwards Hall, c. 1892-1898. © Macalester College Archives.
    </figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ However, Laughlin writes, “chief in interest among Macalester dormitories is W
      Del Laughlin, “Dormitory Associations,” _Macalester College Bulletin_ 1, no. 1 (October 1912), Macalester College Archives, 17-18.
 
 [^3]:
-     Laughlin, “Dormitory Associations,” 17.
+     Ibid., 17.
 
 [^4]:
-     Ibid., 17.
+     Ibid.

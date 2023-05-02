@@ -10,7 +10,7 @@ year: 1893
 <figure>
    <img src="/mac-history/images/female-students-dorm-1910.jpg">
    <figcaption>
-        Female students, class of 1910m, in their dorm room. Macalester College Archives
+        Female students, class of 1910, in their dorm room. © Macalester College Archives.
    </figcaption>
 </figure>
 

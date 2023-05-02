@@ -9,7 +9,7 @@ year: 1995
 <figure>
    <img src="/mac-history/images/campus-center_002.jpg">
    <figcaption>
-     The cover of a booklet outlining the plans for the new Campus Center. Macalester College Archives.
+     The cover of a booklet outlining the plans for the new Campus Center. © Macalester College Archives.
    </figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ These renovations represented a change in the college’s approach to community.
 
 
 [^1]:
-     “Preliminary design concepts for Campus Center,” _Mac Weekly, _October 29, 1993, Macalester College Archives.
+     “Preliminary design concepts for Campus Center,” _Mac Weekly,_ October 29, 1993, Macalester College Archives.
 
 [^2]:
      “Food by Extortion.”

@@ -4,7 +4,7 @@ prefix_path = "/mac-history"
 
 compile '/**/index.html' do
   filter :erb
-  layout '/home.*'
+  layout '/timeline.*'
   
   if item.identifier =~ '**/index.*'
     write prefix_path + item.identifier.to_s
