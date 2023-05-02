@@ -3,7 +3,12 @@
   <body>
     <%= render '/header.*' %>
     <h2 class= "text-4xl text-center font-bold ml-2 mr-2 mb-4" > <%= @item[:section]%></h2>
-    <p class="max-w-xl text-xl text-justify sm:mx-auto m-10"> <%= @item[:description]%> </p>
+    <div class="max-w-xl text-xl text-justify sm:mx-auto m-10"> 
+      <div class="text-2xl font-serif font-bold inline-block"> 
+        <%= @item[:section]%> 
+      </div>
+      <%= @item[:description]%> 
+    </div>
     <div class = "space-y-6">
       <% items_in_section(@item[:section]).each do |article| %>
         <div class="flex article max-w-sm p-4 rounded-xl shadow-lg border-bright-blue border-2 mx-auto mt-2 mb-2 items-center">
