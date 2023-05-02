@@ -25,7 +25,7 @@ figure {
 }
 
 figure img.duo {
-  min-width: 10em;
+  min-width: 10 em;
   height: auto;
 }
 
