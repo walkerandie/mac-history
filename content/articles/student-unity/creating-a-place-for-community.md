@@ -19,7 +19,7 @@ The design of the student union captured the interest of Macalester students thr
 
 
 [^1]:
-    “Students Assist in Plans for New $500,000 Union,” _Mac Weekly, _January 13, 1950, Macalester College Archives. 
+    “Students Assist in Plans for New $500,000 Union,” _Mac Weekly,_ January 13, 1950, Macalester College Archives. 
 
 [^2]:
      Gehrenbeck, “Union Plans.”
